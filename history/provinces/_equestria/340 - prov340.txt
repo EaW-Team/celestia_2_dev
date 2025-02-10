@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = PLB
+controller = PLB
+add_core = PLB
+trade_goods = fish
+life_rating = 35
+

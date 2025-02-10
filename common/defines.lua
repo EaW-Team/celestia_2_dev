@@ -1,7 +1,7 @@
 defines = {
 
-start_date = '1836.1.1',
-end_date = '1950.12.31',
+start_date = '932.1.1',
+end_date = '1046.12.31',
 
 country = {
 	YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism
@@ -135,7 +135,7 @@ military = {
 	BASE_COMBAT_WIDTH = 30,
 	POP_MIN_SIZE_FOR_REGIMENT = 1000,
 	POP_SIZE_PER_REGIMENT = 3000,
-	SOLDIER_TO_POP_DAMAGE = 0.23,
+	SOLDIER_TO_POP_DAMAGE = 0.20,
 	LAND_SPEED_MODIFIER = 1,
 	NAVAL_SPEED_MODIFIER = 2,
 	EXP_GAIN_DIV = 0.05,

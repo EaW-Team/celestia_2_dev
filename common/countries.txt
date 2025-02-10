@@ -5,9 +5,20 @@ REB 	= 	"countries/rebels.txt"
 # Utility Tags
 GHO 	= 	"countries/Ghost Country.txt"
 
+#Equus
+BUF		= "countries/BUF.txt"
+CHN 		= "countries/CHN.txt"
+EQS		= "countries/EQS.txt"
+GRF		= "countries/GRF.txt"
+OLE		= "countries/OLE.txt"
+PLB		= "countries/PLB.txt"
+PNG		= "countries/PNG.txt"
+YAK		= "countries/YAK.txt"
+
 
 ##HoD Dominions
 dynamic_tags  = no # any tags after this is considered dynamic dominions
+
 D01		= "countries/D01.txt"
 D02		= "countries/D02.txt"
 D03		= "countries/D03.txt"

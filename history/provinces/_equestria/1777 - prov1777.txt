@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = GHO
+controller = GHO
+add_core = GHO
+trade_goods = timber
+life_rating = 35
+

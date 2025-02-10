@@ -1,0 +1,6 @@
+anarchic_bomb_throwers = {
+    pop_consciousness_modifier = 0.05
+    icon = 2
+
+    trigger = {}
+}
