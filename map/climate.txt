@@ -33,7 +33,7 @@ inhospitable_climate =
 }
 
 mild_climate = {
-
+	 
 }
 
 temperate_climate = {

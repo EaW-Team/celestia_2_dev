@@ -58,7 +58,6 @@ germanic = {
 		Levin Luria Morgenstern Nathan Oren Rosenthal Sachs Schapiro Schwartz Weinstein Weiss }
 	}
 	
-	union = GER
 }
 
 beneluxian = {
@@ -245,7 +244,6 @@ scandinavian = {
 #			Hætta Somby Turi Magga Dunfjeld Kvitfjell Kappfjell
 #		}
 #	}
-	union = SCA
 }
 
 british = {
@@ -332,7 +330,6 @@ italian = {
 #		Howard Mifsud Mintoff Mizzi Muscat Olivier Puli Pullicino Strickland Vella }
 #	}
 	
-	union = ITA
 }
 
 iberian = {
@@ -532,7 +529,6 @@ south_slavic = {
 		Sarajlic Selimovic Silajdzic Sokolovic Spaho Terzic Tihic Turaljic Tükcan Ugljanin 
 		}
 	}
-	union = YUG
 }
 pan_romanian = {
 	leader = european
@@ -553,7 +549,6 @@ pan_romanian = {
 		Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu
 		}
 	}
-	union = ROM 
 }
 
 hungarian_culture_group = {
@@ -611,7 +606,6 @@ polish_culture_group = {
 		Straizys Stulginkis Svedas Terleckas Urbsys Vagnorius Valeska Voldemaras Zemaitis Zuokas
 		}
 	}
-	union = PLC	
 }
 
 czecho_slovak_culture_group = {
@@ -647,7 +641,6 @@ czecho_slovak_culture_group = {
 #		Masaryk Móry Moyses Rázus Rohácek Rudnay Selepcéni Sidor Skultéty-Gábris Smik
 #		Sokol Stefánik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
 #	}
-	union = CZH
 }
 
 east_slavic = {
@@ -740,8 +733,6 @@ baltic = {
 #		}
 #	}
 #	
-	union = UBD
-
 }
 
 levantine = {
@@ -956,7 +947,6 @@ arab = {
 #			radicalism = 10
 #	}
 	
-	union = ARA
 }
 
 iranian_turanian = {
@@ -1091,7 +1081,6 @@ south_asian = {
 #               
 #		}
 #	}
-	union = HND
 }
 
 southeast_asian = {
@@ -1451,7 +1440,6 @@ american_cultures = {
 #		}
 #		radicalism = 10
 #	}
-	union = USA
 }
 
 neo_european_cultures = {

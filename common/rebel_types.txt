@@ -925,52 +925,11 @@ nationalist_rebels = {
 		}
 		modifier = {
 			factor = 0
-			culture = british
-			country = { primary_culture = boer }
-		}
-		modifier = {
-			factor = 0
-			is_culture_group = scandinavian
-			country = { tag = SCA }
-		}
-		modifier = {
-			factor = 0
-			is_culture_group = germanic
-			country = { tag = GER }
-		}
-		modifier = {
-			factor = 0
-			is_culture_group = italian
-			country = { tag = ITA }
-		}
-		modifier = {
-			factor = 0
-			is_culture_group = italian
-			country = { tag = AIT }
-		}
-		modifier = {
-			factor = 0
-			culture = manchu
-			country = { tag = CHI }
-		}
-		modifier = {
-			factor = 0
-			culture = beifaren
-			country = { tag = CHI }
-		}
-		#modifier = {
-		#	factor = 0
-		#	culture = nanfaren
-		#	country = { tag = CHI }
-		#}
-		modifier = {
-			factor = 0
 			OR = {
 				pop_majority_ideology = reactionary
 				pop_majority_ideology = conservative
 			}
 			country = { 
-				tag = SPA
 				OR = {
 					government = prussian_constitutionalism
 					government = hms_government
@@ -1443,14 +1402,7 @@ carlist_rebels = {
 		
 		modifier = {
 			factor = 0
-			country = { NOT = { tag = SPA}}
 		}
-		modifier = {
-			factor = 1.015
-			country = {
-				tag =  SPA
-			}
-		} 
 		modifier = {
 			factor = 0
 			country = { government = absolute_monarchy }
@@ -1621,7 +1573,6 @@ boxer_rebels = {
 		}
 		modifier = {
 			factor = 0
-			country = { NOT = { tag = CHI} }
 		}
 		modifier = {
 			factor = 0
@@ -1812,7 +1763,6 @@ boxer_rebels = {
 #		
 #		modifier = {
 #			factor = -10000
-#			country = { tag = AIT }
 #		}
 #		
 #		modifier = {
@@ -2101,12 +2051,7 @@ indian_sepoys = {
 		factor = 1.1
 		modifier = {
 			factor = 0
-			OR = {
-				is_cultural_union = THIS
-				location = { NOT = { is_core = HND } }
-				tag = HND
-				exists = HND
-			}
+			is_cultural_union = THIS
 		}
 		
 		modifier = {
