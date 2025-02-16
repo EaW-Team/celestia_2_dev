@@ -1059,7 +1059,6 @@ emigration_chance =
 	modifier = {
 		factor = -0.4
 		is_accepted_culture = no
-		NOT = { culture = irish }
 	}
 }
 #general assimilation mtth, same for all pops
@@ -1071,12 +1070,6 @@ assimilation_chance = {
 	modifier = {
 		factor = -1000
 		OR = {
-			AND = {
-				has_pop_culture = afro_american
-				country = {
-					is_culture_group = american_cultures
-				}
-			}
 			OR = {
 				state_scope = { is_colonial = yes }
 				country = {	

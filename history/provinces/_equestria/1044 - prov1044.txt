@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = EQC
+controller = EQC
+add_core = EQC
 trade_goods = grain
 life_rating = 35
 

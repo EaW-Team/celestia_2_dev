@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = ASS
+controller = ASS
+add_core = ASS
 trade_goods = iron
 life_rating = 35
 

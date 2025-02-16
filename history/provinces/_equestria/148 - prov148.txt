@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = VES
+controller = VES
+add_core = VES
 trade_goods = timber
 life_rating = 35
 

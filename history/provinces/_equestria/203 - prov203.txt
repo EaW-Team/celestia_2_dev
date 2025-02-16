@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = CHN
-controller = CHN
-add_core = CHN
+owner = VLI
+controller = VLI
+add_core = VLI
 trade_goods = sulphur
 life_rating = 35
 

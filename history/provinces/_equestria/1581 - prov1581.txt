@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = PNG
+controller = PNG
+add_core = PNG
 trade_goods = timber
 life_rating = 35
 

@@ -4173,9 +4173,6 @@ establish_protectorate_casus_belli = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		NOT = {
-		is_culture_group = central_african
-		}
 		this = { NOT = { badboy = 1 } }
 		THIS = {
 			civilized = yes
@@ -5160,7 +5157,6 @@ establish_colonial_protectorate_casus_belli = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
-		is_culture_group = central_african
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 

@@ -1,5 +1,4 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
 trade_goods = fish
 life_rating = 35
 

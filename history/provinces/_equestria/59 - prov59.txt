@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = OLE
+controller = OLE
+add_core = OLE
 trade_goods = sulphur
 life_rating = 35
 

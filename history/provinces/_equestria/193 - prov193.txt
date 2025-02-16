@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = CRU
+controller = CRU
+add_core = CRU
 trade_goods = silk
 life_rating = 35
 

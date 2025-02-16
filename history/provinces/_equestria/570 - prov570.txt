@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = WES
+controller = WES
+add_core = WES
 trade_goods = fish
 life_rating = 35
 

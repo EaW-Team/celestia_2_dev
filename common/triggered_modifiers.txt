@@ -4,24 +4,9 @@
 # Effects are fully scriptable here.
 
 #Money Hoarding Mallus to Taxes and Tariffs test implementation
-#money_hoard_1 = {
-#	trigger = {
-#		ai = no
-#		money = 10000000
-#		NOT = { tag = GHO }
-#		NOT = { tag = LCT }
-#		economic_policy = laissez_faire
-#	}
-#	max_tax = -0.59
-#	min_tax = 0.01
-#	max_tariff = -0.75
-#	min_tariff = 0.25
-#	icon = 9
-#}
 desperate_nation  = {
 	trigger = {
 		NOT = {
-				#is_culture_group = germanic
 				total_pops = 25000 #25 thousand POPs/100 thousand population
 
 		}
@@ -37,7 +22,6 @@ microscopic_nation  = {
 	trigger = {
 		total_pops = 25000 #25 thousand POPs/100 thousand population
 		NOT = {
-				#is_culture_group = germanic
 				total_pops = 125000 #125 thousand POPs/500 thousand population
 		}
 	}
@@ -54,7 +38,6 @@ tiny_nation  = {
 		NOT = {
 			OR = {
 				year = 1900
-				#is_culture_group = germanic 
 				total_pops = 1250000 #1.25 million POPs/5 Million population
 			}
 
@@ -72,8 +55,7 @@ small_nation  = {
 	trigger = {
 		total_pops = 1250000 #1.25 million POPs/5 Million population
 		NOT = { 
-				#is_culture_group = germanic
-				#is_culture_group = scandinavian
+
 				total_pops = 3750000 #3.75 million POPs/15 million population
 		}
 	}
@@ -92,8 +74,6 @@ medium_nation  = {
 			OR = {
 				year = 1900
 				civilized = no
-				#is_culture_group = germanic
-				#is_culture_group = scandinavian
 				total_pops = 7500000 #7.5 million POPs/30 Million population
 			}
 			
@@ -263,31 +243,6 @@ ai_boost = {
 	icon = 9
 }
 
-#gorkha_kingdom = {
-#	trigger = {
-#		is_culture_group = central_asian
-#		has_pop_culture = nepali 
-#		NOT = { total_pops = 1250000 } #1.25 million POPs/5 Million population }
-#	}
-#	global_population_growth = 0.01
-#	icon = 17
-#}
-
-#fairer_taxation = {
-#	trigger = {
-#		ai = no
-#		civilized = yes
-#		year = 1890
-#		OR = {
-#			economic_policy = planned_economy
-#			economic_policy = state_capitalism
-#			economic_policy = interventionism
-#		}	
-#	}
-#	max_tax = 0.8
-#	icon = 9
-#}
-
 tariff_efficiency_boost = {
 	trigger = {
 		exists = yes
@@ -349,184 +304,6 @@ vassal_nation = {
 	icon = 10
 	prestige = -0.1
 }
-
-hormuz_strait = {
-		trigger = {
-			exists = yes
-			year = 1880
-			owns = 1145
-			owns = 1168
-		}
-
-	tax_efficiency = 0.01
-	tariff_efficiency_modifier = 0.05
-	icon = 16
-}
-
-own_kiel_canal = {
-	trigger = {
-		exists = yes
-		owns = 369
-		civilized = yes
-		is_canal_enabled = 1
-	}
-	icon = 9
-	#tariff_efficiency_modifier = 0.05
-}
-
-own_suez_canal = {
-	trigger = {
-		exists = yes
-		owns = 1755
-		civilized = yes
-		is_canal_enabled = 2
-	}
-	icon = 9
-	#tariff_efficiency_modifier = 0.1
-	#tax_efficiency = 0.5
-	#prestige = 0.01
-}
-
-own_panama_canal = {
-	trigger = {
-		exists = yes
-		owns = 1723
-		civilized = yes
-		is_canal_enabled = 3
-	}
-	icon = 9
-	#tariff_efficiency_modifier = 0.2
-	#tax_efficiency = 0.5
-	#prestige = 0.02
-}
-
-### Fascism/Communism Country Modifiers, triggered by invention and government type ### MOVED TO COUNTRY MODIFIERS
-#policestate_modifier = {
-#	trigger = {
-#		#year = 1837
-#		invention = the_police_state
-#		OR = {
-#			government = proletarian_dictatorship
-#			government = fascist_dictatorship
-#		}
-#	}
-#	global_pop_consciousness_modifier = -0.01
-#	global_pop_militancy_modifier = -0.01
-#	#administrative_multiplier = 2
-#	icon = 17 
-#}
-#
-#one_party_state_modifier = {
-#	trigger = {
-#		#year = 1837
-#		invention = the_one_party_state
-#		OR = {
-#			government = proletarian_dictatorship
-#			government = fascist_dictatorship
-#		}
-#	}
-#	literacy_con_impact = -0.25
-#	political_reform_desire = -0.2
-#	social_reform_desire = -0.2
-#	
-#	icon = 17 
-#}
-#
-#totalitarianism_modifier = {
-#	trigger = {
-#		#year = 1837
-#		invention = totalitarianism
-#		OR = {
-#			government = proletarian_dictatorship
-#			government = fascist_dictatorship
-#		}
-#	}
-#	suppression_points_modifier = 0.5
-#	mobilization_impact = -0.2
-#	global_immigrant_attract = -0.25
-#	issue_change_speed = -0.25
-#	political_reform_desire = -0.1
-#	social_reform_desire = -0.1
-#	global_pop_consciousness_modifier = 0.01
-#	global_pop_militancy_modifier = 0.01
-#	non_accepted_pop_militancy_modifier = 0.02
-#
-#	icon = 17 
-#}
-#
-#leadership_principle_modifier = {
-#	trigger = {
-#		invention = the_leadership_principle
-#		government = fascist_dictatorship	
-#	}
-#	land_attack_modifier = 0.05
-#	mobilisation_size = 0.01
-#	ruling_party_support = 0.2
-#	leadership_modifier = 0.25
-#	factory_throughput = 0.1
-#	cb_generation_speed_modifier = 0.1
-#	#RGO_throughput = -0.1
-#	#army_tech_research_bonus = -0.1
-#	#navy_tech_research_bonus = -0.1
-#	#commerce_tech_research_bonus = -0.1
-#	#culture_tech_research_bonus = -0.1
-#	#industry_tech_research_bonus = -0.1
-#	issue_change_speed = -0.25
-#	icon = 9
-#}	
-#
-#ultranationalism_modifier = {
-#	trigger = {
-#		#year = 1837
-#		invention = ultranationalism_n_the_volk
-#		government = fascist_dictatorship	
-#	}
-#	min_military_spending = 0.5
-#	core_pop_militancy_modifier = -0.1
-#	global_population_growth = 0.002
-#	suppression_points_modifier = 0.2
-#	global_immigrant_attract = -2
-#	global_assimilation_rate = -2
-#	political_reform_desire = -0.1
-#	non_accepted_pop_militancy_modifier = 0.05
-#	icon = 17 
-#}
-#
-#collectivisation_modifier = {
-#	trigger = {
-#		#year = 1837
-#		invention = collectivisation
-#		government = proletarian_dictatorship	
-#	}
-#	mobilisation_size = 0.01
-#	tax_efficiency = 0.05
-#	factory_throughput = 0.05
-#	mine_rgo_eff = 0.05
-#	max_tariff = 0.35 #cancels out all malus from nation modifiers
-#	#tariff_efficiency_modifier = -0.5
-#	global_population_growth = -0.001
-#	global_assimilation_rate = -0.25
-#	#farm_rgo_eff = -0.2
-#	icon = 17 
-#}
-#
-#classless_society_modifier = {
-#	trigger = {
-#		#year = 1837
-#		invention = the_classless_society
-#		government = proletarian_dictatorship	
-#	}
-#	min_social_spending = 0.5
-#	education_efficiency_modifier = 0.2
-#	global_immigrant_attract = 0.75
-#	suppression_points_modifier = 0.2
-#	non_accepted_pop_militancy_modifier = -0.02
-#	political_reform_desire = -0.1
-#	leadership_modifier = -0.1
-#	rich_income_modifier = -0.5
-#	poor_income_modifier = 0.2
-#	icon = 17 
-#}
 
 save_the_nation0.5  = {
 	trigger = {

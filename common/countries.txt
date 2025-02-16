@@ -14,7 +14,26 @@ OLE		= "countries/OLE.txt"
 PLB		= "countries/PLB.txt"
 PNG		= "countries/PNG.txt"
 YAK		= "countries/YAK.txt"
+SEV 		= "countries/SEV.txt"
+TRS		= "countries/TRS.txt"
+VES		= "countries/VES.txt"
+VRA		= "countries/VRA.txt"
+DIT		= "countries/DIT.txt"
+SOR		= "countries/SOR.txt"
+LYC		= "countries/LYC.txt"
+VLI		= "countries/VLI.txt"
+CRU		= "countries/CRU.txt"
+ASS		= "countries/ASS.txt"
+ANT		= "countries/ANT.txt"
+WES		= "countries/WES.txt"
+SCY		= "countries/SCY.txt"
+VLS		= "countries/VLS.txt"
+SVA		= "countries/SVA.txt"
+ROZ		= "countries/ROZ.txt"
 
+#Griffonia
+EQC		= "countries/EQC.txt"
+WNG		= "countries/WNG.txt"
 
 ##HoD Dominions
 dynamic_tags  = no # any tags after this is considered dynamic dominions

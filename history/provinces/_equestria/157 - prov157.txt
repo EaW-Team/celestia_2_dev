@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = CHN
-controller = CHN
-add_core = CHN
+owner = VES
+controller = VES
+add_core = VES
 trade_goods = cattle
 life_rating = 35
 

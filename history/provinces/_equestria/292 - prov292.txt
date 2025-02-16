@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = VLI
+controller = VLI
+add_core = VLI
 trade_goods = timber
 life_rating = 35
 

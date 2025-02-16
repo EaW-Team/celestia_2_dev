@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = VLS
+controller = VLS
+add_core = VLS
 trade_goods = iron
 life_rating = 35
 
