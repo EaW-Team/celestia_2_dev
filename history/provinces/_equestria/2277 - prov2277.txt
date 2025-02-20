@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = RCT
+controller = RCT
+add_core = RCT
 trade_goods = grain
 life_rating = 35
 

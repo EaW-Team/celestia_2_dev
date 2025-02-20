@@ -1,6 +1,6 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GRI
-controller = GRI
+owner = FEA
+controller = FEA
 add_core = FEA
 trade_goods = grain
 life_rating = 35

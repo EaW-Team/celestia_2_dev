@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = BAK
+controller = BAK
+add_core = BAK
 trade_goods = grain
 life_rating = 35
 

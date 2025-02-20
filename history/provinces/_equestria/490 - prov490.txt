@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = grain
+owner = DRG
+controller = DRG
+add_core = DRG
+trade_goods = sulphur
 life_rating = 35
 

@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = FBK
+controller = FBK
+add_core = FBK
 trade_goods = fish
 life_rating = 35
 

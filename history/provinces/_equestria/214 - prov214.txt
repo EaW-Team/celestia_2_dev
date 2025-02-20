@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = ZES
+controller = ZES
+add_core = ZES
 trade_goods = fruit
 life_rating = 35
 

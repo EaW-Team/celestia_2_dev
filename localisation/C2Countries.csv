@@ -80,7 +80,7 @@ VER_ADJ;Verenian;;x
 FEA;Grand Duchy of Feathisia;;x
 FEA_ADJ;Feathisian;;x
 BOI;Griffonstone;;x
-BOI_ADJ;Griffonstone;;x
+BOI_ADJ;Griffonstonian;;x
 SKY;Skyfall;;x
 SKY;Skyfall;;x
 GTO;Griffton;;x
@@ -88,7 +88,7 @@ GTO_ADJ;Griffton;;x
 VLE;Vleugeland;;x
 VLE_ADJ;Vleugelander;;x
 PYT;Greifenmarschen;;x
-PYT_ADJ;Greifen;;x
+PYT_ADJ;Greifenmarsian;;x
 TAR;Tarrin;;x
 TAR_ADJ;Tarrin;;x
 POM;Pomovarra;;x
@@ -101,3 +101,59 @@ DED;The Dread League;;x
 DED_ADJ;Necromancer;;x
 NTR;Northern Tribes;;x
 NTR_ADJ;Snowpony;;x
+RMA;Romau;;x
+RMA_ADJ;Romau;;x
+SIC;Parishes of Sicameon;;x
+SIC_ADJ;Sicameon;;x
+BLH;Blackhollow;;x
+BLH_ADJ;Blackhollower;;x
+CYA;Cyanolisia;;x
+CYA_ADJ;Cyanolisian;;x
+BRO;Brodfeld;;x
+BRO_ADJ;Brodfeldian;;x
+MIT;Asterion;;x
+MIT_ADJ;Asterionese;;x
+LUS;Lushi;;x
+LUS_ADJ;Lushian;;x
+GRY;Gryphian Host;;x
+GRY_ADJ;Gryphian;;x
+GRU;Gryphus;;x
+GRU_ADJ;Gryphussian;;x
+ZES;Kása;;x
+ZES_ADJ;Kásan;;x
+WIT;Wittenland;;x
+WIT_ADJ;Wittenlandic;;x
+NIM;Nimbusia;;x
+NIM_ADJ;Nimbusian;;x
+OLV;Austurland;;x
+OLV_ADJ;Austurlandic;;x
+FRE;Pònaidhean;;x
+FRE_ADJ;Pònaidh;;x
+RCT;River Republic;;x
+RCT_ADJ;Rijekan;;x
+LCT;Lake City;;x
+LCT_ADJ;Lakeish;;x
+DEP;Deponya;;x
+DEP_ADJ;Deponian;;x
+LNS;Longsword;;x
+LNS_ADJ;Longswordian;;x
+HLQ;Ordensstaat Hellquill;;x
+HLQ_ADJ;Hellquillian;;x
+DMT;Diamond Mountain;;x
+DMT_ADJ;Diamond Dog;;x
+BAK;Bakaran;;x
+BAK_ADJ;Bakaran;;x
+FIR;Firtree;;x
+FIR_ADJ;Firtree;;x
+FBK;Farbrook;;x
+FBK_ADJ;Hillpony;;x
+WAT;Watertowns;;x
+WAT_ADJ;Watertowner;;x
+NCH;Greneclyf;;x
+NCH_ADJ;Greneclyfian;;x
+KIV;Kivessin;;x
+KIV_ADJ;Kivessin;;x
+SYD;Sydia;;x
+SYD_ADJ;Sydian;;x
+DRG;Dragon Lands;;x
+DRG_ADJ;Draconian;;x

@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = OLV
+controller = OLV
+add_core = OLV
 trade_goods = opium
 life_rating = 35
 

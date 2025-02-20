@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = FRE
+controller = FRE
+add_core = FRE
 trade_goods = wool
 life_rating = 35
 

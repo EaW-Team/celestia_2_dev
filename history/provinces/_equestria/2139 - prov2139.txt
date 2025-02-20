@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = DMT
+controller = DMT
+add_core = DMT
 trade_goods = precious_metal
 life_rating = 35
 

@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = PNG
-controller = PNG
-add_core = PNG
+owner = GRF
+controller = GRF
+add_core = GRF
 trade_goods = cattle
 life_rating = 35
 
