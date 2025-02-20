@@ -2,6 +2,6 @@
 owner = DIT
 controller = DIT
 add_core = DIT
-trade_goods = fish
+trade_goods = silk
 life_rating = 35
 

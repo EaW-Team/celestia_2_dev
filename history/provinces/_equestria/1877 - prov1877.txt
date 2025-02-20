@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = tropical_wood
+owner = SIC
+controller = SIC
+add_core = SIC
+trade_goods = grain
 life_rating = 35
 

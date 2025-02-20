@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = fish
+owner = BRO
+controller = BRO
+add_core = BRO
+trade_goods = fruit
 life_rating = 35
 

@@ -2,6 +2,6 @@
 owner = DIT
 controller = DIT
 add_core = DIT
-trade_goods = grain
+trade_goods = coal
 life_rating = 35
 

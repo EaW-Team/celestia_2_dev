@@ -2,6 +2,6 @@
 owner = EQS
 controller = EQS
 add_core = EQS
-trade_goods = timber
+trade_goods = coal
 life_rating = 35
 

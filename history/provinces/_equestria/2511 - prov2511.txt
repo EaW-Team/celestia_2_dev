@@ -1,5 +1,5 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
 
-trade_goods = coffee
+trade_goods = fruit
 life_rating = 35
 

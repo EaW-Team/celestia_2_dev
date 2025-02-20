@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = GRY
+controller = GRY
+add_core = GRY
 trade_goods = cattle
 life_rating = 35
 

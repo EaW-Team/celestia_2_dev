@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = grain
+owner = GRU
+controller = GRU
+add_core = GRU
+trade_goods = fruit
 life_rating = 35
 

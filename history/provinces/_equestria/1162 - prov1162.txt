@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = GTO
+controller = GTO
+add_core = GTO
 trade_goods = grain
 life_rating = 35
 

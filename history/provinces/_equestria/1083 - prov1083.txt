@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = grain
+owner = AQU
+controller = AQU
+add_core = AQU
+trade_goods = cattle
 life_rating = 35
 

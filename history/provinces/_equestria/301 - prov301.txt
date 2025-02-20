@@ -1,5 +1,8 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = TRS
+controller = TRS
+add_core = TRS
 
-trade_goods = grain
+trade_goods = cattle
 life_rating = 35
 

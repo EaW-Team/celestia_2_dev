@@ -2,6 +2,6 @@
 owner = SCY
 controller = SCY
 add_core = SCY
-trade_goods = tropical_wood
+trade_goods = coal
 life_rating = 35
 

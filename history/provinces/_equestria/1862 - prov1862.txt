@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = timber
+owner = BOI
+controller = BOI
+add_core = BOI
+trade_goods = coal
 life_rating = 35
 

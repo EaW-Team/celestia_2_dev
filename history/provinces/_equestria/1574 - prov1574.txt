@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = PYT
+controller = PYT
+add_core = PYT
 trade_goods = grain
 life_rating = 35
 

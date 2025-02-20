@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = AQU
+controller = AQU
+add_core = AQU
 trade_goods = sulphur
 life_rating = 35
 

@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = WIT
+controller = WIT
+add_core = WIT
 trade_goods = cattle
 life_rating = 35
 

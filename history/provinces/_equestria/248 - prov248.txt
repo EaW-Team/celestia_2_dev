@@ -2,6 +2,6 @@
 owner = TRS
 controller = TRS
 add_core = TRS
-trade_goods = grain
+trade_goods = wool
 life_rating = 35
 

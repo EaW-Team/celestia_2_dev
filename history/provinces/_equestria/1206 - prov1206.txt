@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = VLE
+controller = VLE
+add_core = VLE
 trade_goods = cattle
 life_rating = 35
 

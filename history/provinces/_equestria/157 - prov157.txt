@@ -2,6 +2,6 @@
 owner = VES
 controller = VES
 add_core = VES
-trade_goods = cattle
+trade_goods = silk
 life_rating = 35
 

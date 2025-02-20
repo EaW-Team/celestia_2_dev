@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = VER
+controller = VER
+add_core = VER
 trade_goods = iron
 life_rating = 35
 

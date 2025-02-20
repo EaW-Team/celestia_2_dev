@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = LCT
+controller = LCT
+add_core = LCT
 trade_goods = iron
 life_rating = 35
 

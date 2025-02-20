@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = grain
+owner = LNS
+controller = LNS
+add_core = LNS
+trade_goods = fruit
 life_rating = 35
 

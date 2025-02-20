@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = tropical_wood
+owner = EQS
+controller = EQS
+add_core = EQS
+trade_goods = iron
 life_rating = 35
 

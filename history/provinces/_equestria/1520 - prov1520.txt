@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = cattle
+owner = TAR
+controller = TAR
+add_core = TAR
+trade_goods = coal
 life_rating = 35
 

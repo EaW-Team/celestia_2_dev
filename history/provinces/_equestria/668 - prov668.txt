@@ -2,6 +2,6 @@
 owner = SEV
 controller = SEV
 add_core = SEV
-trade_goods = iron
+trade_goods = cattle
 life_rating = 35
 

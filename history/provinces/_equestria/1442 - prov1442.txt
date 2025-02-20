@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = FLO
+controller = FLO
+add_core = FLO
 trade_goods = timber
 life_rating = 35
 

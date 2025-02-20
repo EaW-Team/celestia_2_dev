@@ -1,5 +1,5 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
 
-trade_goods = grain
+trade_goods = coffee
 life_rating = 35
 

@@ -1,5 +1,4 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = timber
+trade_goods = grain
 life_rating = 35
 

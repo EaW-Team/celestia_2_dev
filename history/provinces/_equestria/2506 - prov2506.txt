@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = grain
+owner = WIT
+controller = WIT
+add_core = WIT
+trade_goods = coal
 life_rating = 35
 

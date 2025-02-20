@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = cattle
+owner = FAL
+controller = FAL
+add_core = FAL
+trade_goods = fruit
 life_rating = 35
 

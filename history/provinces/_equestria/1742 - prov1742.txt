@@ -2,6 +2,6 @@
 owner = SOR
 controller = SOR
 add_core = SOR
-trade_goods = grain
+trade_goods = silk
 life_rating = 35
 

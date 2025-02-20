@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = FEZ
+controller = FEZ
+add_core = FEZ
 trade_goods = silk
 life_rating = 35
 

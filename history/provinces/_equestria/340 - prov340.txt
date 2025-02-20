@@ -2,6 +2,6 @@
 owner = SCY
 controller = SCY
 add_core = SCY
-trade_goods = fish
+trade_goods = iron
 life_rating = 35
 

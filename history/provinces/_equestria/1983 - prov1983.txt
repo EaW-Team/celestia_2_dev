@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = LUS
+controller = LUS
+add_core = LUS
 trade_goods = cattle
 life_rating = 35
 

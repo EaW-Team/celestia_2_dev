@@ -2,6 +2,6 @@
 owner = OLE
 controller = OLE
 add_core = OLE
-trade_goods = timber
+trade_goods = fruit
 life_rating = 35
 

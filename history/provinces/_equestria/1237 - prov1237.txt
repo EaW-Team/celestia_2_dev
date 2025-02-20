@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = FEA
+controller = FEA
+add_core = FEA
 trade_goods = fish
 life_rating = 35
 

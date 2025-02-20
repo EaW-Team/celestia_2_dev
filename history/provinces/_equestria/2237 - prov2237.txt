@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = MIT
+controller = MIT
+add_core = MIT
 trade_goods = coffee
 life_rating = 35
 

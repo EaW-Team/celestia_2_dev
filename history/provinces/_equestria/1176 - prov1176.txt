@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = wool
+owner = GTO
+controller = GTO
+add_core = GTO
+trade_goods = cattle
 life_rating = 35
 

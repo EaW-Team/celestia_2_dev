@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = NTR
+controller = NTR
+add_core = NTR
 trade_goods = sulphur
 life_rating = 35
 

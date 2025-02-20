@@ -1,5 +1,5 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
 
-trade_goods = cattle
+trade_goods = wool
 life_rating = 35
 

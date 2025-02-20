@@ -2,6 +2,6 @@
 owner = VLI
 controller = VLI
 add_core = VLI
-trade_goods = sulphur
+trade_goods = wool
 life_rating = 35
 

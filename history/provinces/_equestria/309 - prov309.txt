@@ -2,6 +2,6 @@
 owner = ANT
 controller = ANT
 add_core = ANT
-trade_goods = cattle
+trade_goods = silk
 life_rating = 35
 
