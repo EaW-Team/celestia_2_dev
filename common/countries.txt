@@ -30,7 +30,11 @@ SCY		= "countries/SCY.txt"
 VLS		= "countries/VLS.txt"
 SVA		= "countries/SVA.txt"
 ROZ		= "countries/ROZ.txt"
+ROS		= "countries/ROS.txt"
 DRG		= "countries/DRG.txt"
+HAY		= "countries/HAY.txt"
+SLL		= "countries/SLL.txt"
+CST		= "countries/CST.txt"
 
 #Griffonia
 EQC		= "countries/EQC.txt"
@@ -87,6 +91,12 @@ FIR		= "countries/FIR.txt"
 BAK		= "countries/BAK.txt"
 NCH		= "countries/NCH.txt"
 WAT		= "countries/WAT.txt"
+OPN		= "countries/OPN.txt"
+GSG		= "countries/GSG.txt"
+GR1		= "countries/GR1.txt"
+GR2		= "countries/GR2.txt"
+GR3		= "countries/GR3.txt"
+
 
 #Zebrica 	
 SDL		= "countries/SDL.txt"

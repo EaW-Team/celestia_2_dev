@@ -1,7 +1,5 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = BUF
-controller = BUF
-add_core = BUF
+
 trade_goods = fruit
 life_rating = 35
 

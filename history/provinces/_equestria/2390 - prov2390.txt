@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GRU
-controller = GRU
-add_core = GRU
+owner = GR3
+controller = GR3
+add_core = GR3
 trade_goods = wool
 life_rating = 35
 

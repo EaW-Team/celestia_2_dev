@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = TRS
-controller = TRS
-add_core = TRS
+owner = HAY
+controller = HAY
+add_core = HAY
 trade_goods = tobacco
 life_rating = 35
 

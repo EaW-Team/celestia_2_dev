@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = SCY
-controller = SCY
-add_core = SCY
+owner = ROS
+controller = ROS
+add_core = ROS
 trade_goods = fish
 life_rating = 35
 

@@ -162,12 +162,11 @@ disarming = {
 
 war_exhaustion = {
 	org_regain = -0.01 #-0.01
-#	factory_throughput = -0.010 #-100%
-#	RGO_throughput	= -0.01 
-	tax_efficiency = -0.002 #-10%  #CE addition 
-#    pop_militancy_modifier = 0.001 #CE addition
+	factory_throughput = -0.006
+	RGO_throughput = -0.006
+	mobilisation_economy_impact = 0.02
 	cb_generation_speed_modifier = -0.02
-	tariff_efficiency_modifier = -0.001 #-10%
+	mobilisation_size = -0.001
 	supply_consumption = 0.001 #10%
 }
 

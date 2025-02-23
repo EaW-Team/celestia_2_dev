@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = ROZ
-controller = ROZ
-add_core = ROZ
+owner = ROS
+controller = ROS
+add_core = ROS
 trade_goods = cattle
 life_rating = 35
 

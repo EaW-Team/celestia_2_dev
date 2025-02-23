@@ -2,6 +2,6 @@
 owner = NCH
 controller = NCH
 add_core = NCH
-trade_goods = wool
+trade_goods = iron
 life_rating = 35
 

@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = TRS
-controller = TRS
-add_core = TRS
+owner = EQS
+controller = EQS
+add_core = EQS
 trade_goods = fish
 life_rating = 35
 

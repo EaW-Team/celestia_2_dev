@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GRU
-controller = GRU
-add_core = GRU
+owner = OPN
+controller = OPN
+add_core = OPN
 trade_goods = timber
 life_rating = 35
 

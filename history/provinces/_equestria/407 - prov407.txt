@@ -1,8 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = TRS
-controller = TRS
-add_core = TRS
-
+owner = SLL
+controller = SLL
+add_core = SLL
 trade_goods = cattle
 life_rating = 35
 
