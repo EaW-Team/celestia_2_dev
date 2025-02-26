@@ -1868,29 +1868,39 @@
 # 
 126 = {
 	aristocrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 5664
 	}
 	artisans = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 2000
+		size = 141604
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 5664
 	}
 	clergymen = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 4720
 	}
 	farmers = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 7700
+		size = 295480
+	}
+	officers = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 4720
+	}
+	soldiers = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 14160
 	}
 }
 
@@ -2006,36 +2016,41 @@
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 7700
+		size = 7500
+	}
+	soldiers = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 200
 	}
 }
 
 # 
 132 = {
 	aristocrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 1416
 	}
 	artisans = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 2000
+		size = 11328
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 708
 	}
 	clergymen = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 708
 	}
 	farmers = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 7700
+		size = 127443
 	}
 }
 
@@ -2187,29 +2202,34 @@
 # 
 140 = {
 	aristocrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 1290
 	}
 	artisans = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 2000
+		size = 19364
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 1290
 	}
 	clergymen = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 1290
 	}
 	farmers = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 7700
+		size = 104569
+	}
+	soldiers = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 1290
 	}
 }
 
@@ -2310,7 +2330,7 @@
 	artisans = {
 		culture = hive_changeling
 		religion = placeholder
-		size = 41355
+		size = 31016
 	}
 	bureaucrats = {
 		culture = hive_changeling
@@ -2325,7 +2345,7 @@
 	farmers = {
 		culture = hive_changeling
 		religion = placeholder
-		size = 159219
+		size = 169558
 	}
 }
 
@@ -2419,29 +2439,34 @@
 # 
 148 = {
 	aristocrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 553
 	}
 	artisans = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 2000
+		size = 5532
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 276
 	}
 	clergymen = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 276
 	}
 	farmers = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 7700
+		size = 48134
+	}
+	soldiers = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 553
 	}
 }
 
@@ -2484,7 +2509,7 @@
 	artisans = {
 		culture = hive_changeling
 		religion = placeholder
-		size = 34463
+		size = 25847
 	}
 	bureaucrats = {
 		culture = hive_changeling
@@ -2499,7 +2524,7 @@
 	farmers = {
 		culture = hive_changeling
 		religion = placeholder
-		size = 132683
+		size = 141299
 	}
 }
 
@@ -2639,7 +2664,7 @@
 	artisans = {
 		culture = hive_changeling
 		religion = placeholder
-		size = 37220
+		size = 27915
 	}
 	bureaucrats = {
 		culture = hive_changeling
@@ -2654,7 +2679,7 @@
 	farmers = {
 		culture = hive_changeling
 		religion = placeholder
-		size = 143297
+		size = 152602
 	}
 }
 
@@ -2755,7 +2780,7 @@
 	artisans = {
 		culture = hive_changeling
 		religion = placeholder
-		size = 24813
+		size = 18610
 	}
 	bureaucrats = {
 		culture = hive_changeling
@@ -2770,7 +2795,7 @@
 	farmers = {
 		culture = hive_changeling
 		religion = placeholder
-		size = 95531
+		size = 101734
 	}
 }
 
@@ -20428,6 +20453,40 @@
 		culture = placeholder
 		religion = placeholder
 		size = 7700
+	}
+}
+
+# 
+1703 = {
+	aristocrats = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 149
+	}
+	artisans = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 4100
+	}
+	bureaucrats = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 223
+	}
+	clergymen = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 223
+	}
+	farmers = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 32207
+	}
+	soldiers = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 372
 	}
 }
 

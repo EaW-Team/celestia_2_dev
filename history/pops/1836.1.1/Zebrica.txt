@@ -12277,35 +12277,6 @@
 }
 
 # 
-1703 = {
-	aristocrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	artisans = {
-		culture = placeholder
-		religion = placeholder
-		size = 2000
-	}
-	bureaucrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	clergymen = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	farmers = {
-		culture = placeholder
-		religion = placeholder
-		size = 7700
-	}
-}
-
-# 
 1704 = {
 	aristocrats = {
 		culture = placeholder
@@ -17729,35 +17700,6 @@
 }
 
 # 
-2251 = {
-	aristocrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	artisans = {
-		culture = placeholder
-		religion = placeholder
-		size = 2000
-	}
-	bureaucrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	clergymen = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	farmers = {
-		culture = placeholder
-		religion = placeholder
-		size = 7700
-	}
-}
-
-# 
 2254 = {
 	aristocrats = {
 		culture = placeholder
@@ -18454,35 +18396,6 @@
 }
 
 # 
-2305 = {
-	aristocrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	artisans = {
-		culture = placeholder
-		religion = placeholder
-		size = 2000
-	}
-	bureaucrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	clergymen = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	farmers = {
-		culture = placeholder
-		religion = placeholder
-		size = 7700
-	}
-}
-
-# 
 2307 = {
 	aristocrats = {
 		culture = placeholder
@@ -18861,35 +18774,6 @@
 
 # 
 2335 = {
-	aristocrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	artisans = {
-		culture = placeholder
-		religion = placeholder
-		size = 2000
-	}
-	bureaucrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	clergymen = {
-		culture = placeholder
-		religion = placeholder
-		size = 100
-	}
-	farmers = {
-		culture = placeholder
-		religion = placeholder
-		size = 7700
-	}
-}
-
-# 
-2338 = {
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder

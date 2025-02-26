@@ -9437,29 +9437,39 @@
 # 
 1753 = {
 	aristocrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 1730
 	}
 	artisans = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 2000
+		size = 20768
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 865
 	}
 	clergymen = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 100
+		size = 432
 	}
 	farmers = {
-		culture = placeholder
+		culture = hive_changeling
 		religion = placeholder
-		size = 7700
+		size = 144082
+	}
+	officers = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 1730
+	}
+	soldiers = {
+		culture = hive_changeling
+		religion = placeholder
+		size = 3461
 	}
 }
 
@@ -16225,27 +16235,27 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 100
+		size = 956
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 2000
+		size = 19139
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 100
+		size = 956
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 100
+		size = 956
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 7700
+		size = 73685
 	}
 }
 
@@ -17033,6 +17043,35 @@
 }
 
 # 
+2251 = {
+	aristocrats = {
+		culture = placeholder
+		religion = placeholder
+		size = 2908
+	}
+	artisans = {
+		culture = placeholder
+		religion = placeholder
+		size = 58177
+	}
+	bureaucrats = {
+		culture = placeholder
+		religion = placeholder
+		size = 2908
+	}
+	clergymen = {
+		culture = placeholder
+		religion = placeholder
+		size = 2908
+	}
+	farmers = {
+		culture = placeholder
+		religion = placeholder
+		size = 223984
+	}
+}
+
+# 
 2252 = {
 	aristocrats = {
 		culture = placeholder
@@ -17066,27 +17105,27 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 100
+		size = 1939
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 2000
+		size = 38785
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 100
+		size = 1939
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 100
+		size = 1939
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 7700
+		size = 149323
 	}
 }
 
@@ -17758,6 +17797,35 @@
 }
 
 # 
+2305 = {
+	aristocrats = {
+		culture = placeholder
+		religion = placeholder
+		size = 1435
+	}
+	artisans = {
+		culture = placeholder
+		religion = placeholder
+		size = 28708
+	}
+	bureaucrats = {
+		culture = placeholder
+		religion = placeholder
+		size = 1435
+	}
+	clergymen = {
+		culture = placeholder
+		religion = placeholder
+		size = 1435
+	}
+	farmers = {
+		culture = placeholder
+		religion = placeholder
+		size = 110528
+	}
+}
+
+# 
 2306 = {
 	aristocrats = {
 		culture = placeholder
@@ -18131,6 +18199,35 @@
 		culture = placeholder
 		religion = placeholder
 		size = 7700
+	}
+}
+
+# 
+2338 = {
+	aristocrats = {
+		culture = placeholder
+		religion = placeholder
+		size = 739
+	}
+	artisans = {
+		culture = placeholder
+		religion = placeholder
+		size = 14797
+	}
+	bureaucrats = {
+		culture = placeholder
+		religion = placeholder
+		size = 739
+	}
+	clergymen = {
+		culture = placeholder
+		religion = placeholder
+		size = 739
+	}
+	farmers = {
+		culture = placeholder
+		religion = placeholder
+		size = 56968
 	}
 }
 

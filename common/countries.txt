@@ -100,6 +100,7 @@ GR3		= "countries/GR3.txt"
 
 #Zebrica 	
 SDL		= "countries/SDL.txt"
+MCW		= "countries/MCW.txt"
 
 ##HoD Dominions
 dynamic_tags  = no # any tags after this is considered dynamic dominions

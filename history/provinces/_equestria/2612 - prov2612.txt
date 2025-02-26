@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = MCW
+controller = MCW
+add_core = MCW
 trade_goods = cattle
 life_rating = 35
 
