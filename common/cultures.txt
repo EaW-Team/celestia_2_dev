@@ -160,8 +160,16 @@ pony = {
 changeling = {
 	leader = european
 	unit = EuropeanGC
-	hive_changeling = {						
+	boreal_changeling = {						
 		color = {51 53 64}
+		first_names = { Acari Araneidae Salticidae Solifugae Opiliones Lycosidae Oxypidea Vesali Cerambycidea Hemiptera
+			Malakith Pterygota Apterygota Zoraptera Tyran Ixodida Phasmida Pharynx Thorax Mantodea
+			Acrididea Dispar Vanessa Lucinidea Psodi Chrysomelidae Nepidae Cynipidae Miridea Thysbe }
+
+		last_names = { Agonia Antax Aglossata Apsychos Assyna Crucis Ditrysium Formicida Gardis Gorak Hemelytra Hoorornd Kladisium Larkorix Phantine Praesepis Purifia Sicarus Soryth Vesalipolis Vraks Volistad }
+	}
+	brackish_changeling = {						
+		color = {64 55 63}
 		first_names = { Acari Araneidae Salticidae Solifugae Opiliones Lycosidae Oxypidea Vesali Cerambycidea Hemiptera
 			Malakith Pterygota Apterygota Zoraptera Tyran Ixodida Phasmida Pharynx Thorax Mantodea
 			Acrididea Dispar Vanessa Lucinidea Psodi Chrysomelidae Nepidae Cynipidae Miridea Thysbe }
