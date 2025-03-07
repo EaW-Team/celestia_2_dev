@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = KA3
+controller = KA3
+add_core = KA3
 trade_goods = wool
 life_rating = 35
 

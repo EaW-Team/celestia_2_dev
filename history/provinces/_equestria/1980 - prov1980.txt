@@ -2,6 +2,6 @@
 owner = BLH
 controller = BLH
 add_core = BLH
-trade_goods = precious_metal
+trade_goods = coal
 life_rating = 35
 

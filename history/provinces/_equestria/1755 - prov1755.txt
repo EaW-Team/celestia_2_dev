@@ -2,6 +2,6 @@
 owner = GRI
 controller = GRI
 add_core = GRI
-trade_goods = wool
+trade_goods = silk
 life_rating = 35
 

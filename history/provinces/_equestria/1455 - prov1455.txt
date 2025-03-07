@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = MAZ
+controller = MAZ
+add_core = MAZ
 trade_goods = timber
 life_rating = 35
 

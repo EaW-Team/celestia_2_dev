@@ -2,6 +2,6 @@
 owner = RMA
 controller = RMA
 add_core = RMA
-trade_goods = cattle
+trade_goods = coal
 life_rating = 35
 

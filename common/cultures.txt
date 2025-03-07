@@ -161,7 +161,7 @@ changeling = {
 	leader = european
 	unit = EuropeanGC
 	boreal_changeling = {						
-		color = {51 53 64}
+		color = {51 53 84}
 		first_names = { Acari Araneidae Salticidae Solifugae Opiliones Lycosidae Oxypidea Vesali Cerambycidea Hemiptera
 			Malakith Pterygota Apterygota Zoraptera Tyran Ixodida Phasmida Pharynx Thorax Mantodea
 			Acrididea Dispar Vanessa Lucinidea Psodi Chrysomelidae Nepidae Cynipidae Miridea Thysbe }

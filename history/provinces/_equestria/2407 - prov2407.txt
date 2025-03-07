@@ -2,6 +2,6 @@
 owner = MCW
 controller = MCW
 add_core = MCW
-trade_goods = fruit
+trade_goods = sulphur
 life_rating = 35
 

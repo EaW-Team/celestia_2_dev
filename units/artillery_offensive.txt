@@ -39,7 +39,7 @@ artillery_offensive = {
 	reconnaissance = 0
 	attack = 3
 	defence = 2
-	discipline = 1.0
+	discipline = 0.75
 	support = 2
 	maneuver = 1
 

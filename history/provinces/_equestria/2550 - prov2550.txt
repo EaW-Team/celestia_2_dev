@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
-trade_goods = precious_metal
+owner = CEN
+controller = CEN
+add_core = CEN
+trade_goods = coal
 life_rating = 35
 

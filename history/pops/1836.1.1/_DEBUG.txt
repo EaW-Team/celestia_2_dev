@@ -1,0 +1,7 @@
+1778 = {
+	bankers = {
+		culture = placeholder
+		religion = placeholder
+		size = 100000
+	}
+}

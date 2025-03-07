@@ -4,6 +4,7 @@ REB 	= 	"countries/rebels.txt"
 
 # Utility Tags
 GHO 	= 	"countries/Ghost Country.txt"
+JAN	= 	"countries/JAN.txt"
 
 #Equus
 BUF		= "countries/BUF.txt"
@@ -101,6 +102,40 @@ GR3		= "countries/GR3.txt"
 #Zebrica 	
 SDL		= "countries/SDL.txt"
 MCW		= "countries/MCW.txt"
+HIP		= "countries/HIP.txt"
+CHI		= "countries/CHI.txt"
+MAG		= "countries/MAG.txt"
+WAR		= "countries/WAR.txt"
+YEM		= "countries/YEM.txt"
+MTO		= "countries/MTO.txt"
+AES		= "countries/AES.txt"
+MAE		= "countries/MAE.txt"
+ABY		= "countries/ABY.txt"
+MAR		= "countries/MAR.txt"
+ZUM		= "countries/ZUM.txt"
+BKH		= "countries/BKH.txt"
+QUA		= "countries/QUA.txt"
+AST		= "countries/AST.txt"
+SUM		= "countries/SUM.txt"
+OSQ		= "countries/OSQ.txt"
+HMR		= "countries/HMR.txt"
+REE		= "countries/REE.txt"
+ZEL		= "countries/ZEL.txt"
+MAZ		= "countries/MAZ.txt"
+MOZ		= "countries/MOZ.txt"
+HYE		= "countries/HYE.txt"
+KA1		= "countries/KA1.txt"
+KA2		= "countries/KA2.txt"
+KA3		= "countries/KA3.txt"
+KA4		= "countries/KA4.txt"
+KA5		= "countries/KA5.txt"
+KA6		= "countries/KA6.txt"
+CLT		= "countries/CLT.txt"
+MZM		= "countries/MZM.txt"
+KIR		= "countries/KIR.txt"
+CEN 		= "countries/CEN.txt"
+GAR		= "countries/GAR.txt"
+
 
 ##HoD Dominions
 dynamic_tags  = no # any tags after this is considered dynamic dominions

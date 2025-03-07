@@ -2,6 +2,6 @@
 owner = AQU
 controller = AQU
 add_core = AQU
-trade_goods = fish
+trade_goods = sulphur
 life_rating = 35
 

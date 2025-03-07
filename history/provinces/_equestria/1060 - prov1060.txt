@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = OSQ
+controller = OSQ
+add_core = OSQ
 trade_goods = iron
 life_rating = 35
 

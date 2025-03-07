@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = HIP
+controller = HIP
+add_core = HIP
 trade_goods = iron
 life_rating = 35
 
