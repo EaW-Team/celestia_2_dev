@@ -26,7 +26,7 @@ pony = {
 	}
 
 	marelander_pony = {						
-		color = {86 132 64}
+		color = {192 227 176}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
 		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
@@ -37,7 +37,7 @@ pony = {
 	}
 
 	crystal_pony = {						
-		color = {198 29 0}
+		color = {170 119 185}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
 		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
@@ -48,7 +48,7 @@ pony = {
 	}
 
 	severyanian_pony = {						
-		color = {198 29 0}
+		color = {204 72 111}
 		first_names = { Amber Azure Beauty Blueberry Candy Charity Cherry Coco Corn Crimson Cup Daisy Florina Flurry Flutter Gala Green Jasmine Jonagold Lemon Lilac Lily Limestone Lotus Lyra Marble Merry Minty Mythic Ocean Orange Peachy Pearly Pink Prim Purple Rainbow Rarity Raspberry Raven Red Sapphire Scarlet Sea Shimmy Snowy Soft Spoiled Spring Sprinkle Starlight Strawberry Sun Sunset Suri Sweetie Tree Twilight Twinkle Twist Velvet Winter Emerald Evening Fine Full Ginger Grape Hammer Hay Iron Lapis Lead Lime Lucky Parcel Perfect Pine Prance Rough Sealed Shiny Tall Vermilion Cloudy White Crafty Sand Stellar Filthy Glad Hard Cream Carrot Foam Piles Quibble Rusty Silver Trouble Twisty Caramel Lavender Bright Pokey Golden Wensley Tough Ace Black Brindle Bush Chocolate Cobalt Storm Warm Midnight Moonshadow Moonlight Starry Stars Moon Night Thunder Duke Star Mister Brisk Steel Comet Flash Wild Platinum Rapid Sunshine Blue Butter Amity Hoofer Lighthoof Ebony Torch Big Braeburn Burnt Cheese Double Feather Caramel Emerald Grape Lavender Lucky Midnight Moonlight Moonshadow Perfect }
 
 		last_names = { Shine Kindheart Apple Blossom Cake Glimmer Cinnamon Cloud Dew Pommel Steps Tea Peach Pear Shores Shake Rich Milk Pool Song Hugger Trotsworth Bucks McColt 
@@ -315,7 +315,7 @@ buffalo = {
 	leader = european
 	unit = EuropeanGC
 	buffalo = {						
-		color = {198 29 0}
+		color = {140 112 85}
 		first_names = { Sharphorns Hairycoat Bighead Clevermind Hungrybelly Thunderhooves Buffy Longtail Grazer Fireblood Blacktail Shortlegs Fieryhorns Strongheart Angie Shinycoat Curvehorns Fasthooves Shorttail Browser Fluffyhead Smoothbelly Goodwill Browntail Shinyhooves Littlehorns }
 
 		last_names = { "of Ayandi" "of Meskwakia" "of Rosemarein" "of Pinto Creek" "of Minefields" "of Snortora" "of Canter Creek" "of Sunshine" }
@@ -325,13 +325,19 @@ buffalo = {
 griffin = {
 	leader = european
 	unit = EuropeanGC
-	north_griffking_griffin = {						
+	griffking_griffin = {						
 		color = {198 29 0}
 		first_names = { pony should ponypony }
 
 		last_names = { pony should ponypony }
 	}
-	south_griffking_griffin = {						
+	herzlander_griffin = {						
+		color = {198 29 0}
+		first_names = { pony should ponypony }
+
+		last_names = { pony should ponypony }
+	}
+	nova_griffin = {						
 		color = {198 29 0}
 		first_names = { pony should ponypony }
 
@@ -396,7 +402,7 @@ bears = {
 penguins = {
 	leader = polar_bear
 	unit = EuropeanGC
-	penguins = {
+	penguin = {
 		color = { 200 200 200}
 		first_names = { Per Jan Kjell Arne Bjorn Odd Svein Harald Tor Knut Carl Anne Inger Kari Gerd Liv Berit Astrid Marit Turid Nela }
 		

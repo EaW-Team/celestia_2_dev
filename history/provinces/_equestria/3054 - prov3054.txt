@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = KHM
+controller = KHM
+add_core = KHM
 trade_goods = tea
 life_rating = 35
 

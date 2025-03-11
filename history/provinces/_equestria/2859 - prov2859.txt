@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = CTL
+controller = CTL
+add_core = CTL
 trade_goods = iron
 life_rating = 35
 

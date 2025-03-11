@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = SAM
+controller = SAM
+add_core = SAM
 trade_goods = iron
 life_rating = 35
 

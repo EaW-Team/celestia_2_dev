@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = HAR
+controller = HAR
+add_core = HAR
 trade_goods = iron
 life_rating = 35
 

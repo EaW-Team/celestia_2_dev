@@ -927,27 +927,27 @@
 # 
 1044 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 15
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 15
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 1
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 1541
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 3
 	}
@@ -1024,32 +1024,32 @@
 # 
 1052 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 123
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 247
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 49
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 49
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 11808
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 99
 	}
@@ -1233,32 +1233,32 @@
 # 
 1072 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 71
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 143
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 28
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 35
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 6803
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 107
 	}
@@ -1306,37 +1306,37 @@
 # 
 1079 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 188
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 3966
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 151
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 151
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 13806
 	}
 	officers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 75
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 547
 	}
@@ -1496,32 +1496,32 @@
 # 
 1092 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 57
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 114
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 22
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 28
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 5435
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 57
 	}
@@ -1566,32 +1566,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 145
+		size = 520
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 435
+		size = 1560
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 58
+		size = 208
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 58
+		size = 208
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 13726
+		size = 49163
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 101
+		size = 364
 	}
 }
 
@@ -2654,37 +2654,37 @@
 # 
 1175 = {
 	aristocrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 2871
 	}
 	artisans = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 48813
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 2871
 	}
 	clergymen = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 3158
 	}
 	farmers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 217650
 	}
 	officers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 2297
 	}
 	soldiers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 9475
 	}
@@ -2732,32 +2732,32 @@
 # 
 1179 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 185
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 556
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 74
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 92
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 17516
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 111
 	}
@@ -2766,32 +2766,32 @@
 # 
 1180 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 420
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 841
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 168
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 210
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 39821
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 588
 	}
@@ -3043,32 +3043,32 @@
 # 
 1198 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 451
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 1354
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 270
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 316
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 41723
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 1038
 	}
@@ -3116,32 +3116,32 @@
 # 
 1202 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 559
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 1119
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 223
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 223
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 53308
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 559
 	}
@@ -3150,32 +3150,32 @@
 # 
 1203 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 509
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 1529
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 203
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 203
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 47820
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 713
 	}
@@ -3184,32 +3184,32 @@
 # 
 1205 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 213
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 640
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 85
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 106
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 20113
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 192
 	}
@@ -3252,37 +3252,37 @@
 # 
 1207 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 490
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 981
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 294
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 294
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 45989
 	}
 	officers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 98
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 932
 	}
@@ -3408,37 +3408,37 @@
 # 
 1219 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 4338
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 82431
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 4338
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 5206
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 322350
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 867
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 14317
 	}
@@ -3632,39 +3632,39 @@
 # 
 1227 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 7260
+		size = 1510
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 159736
+		size = 33236
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 7260
+		size = 1510
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 10891
+		size = 2266
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 503897
+		size = 104847
 	}
 	officers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 5082
+		size = 1057
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 31947
+		size = 6647
 	}
 }
 
@@ -3817,39 +3817,39 @@
 # 
 1235 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 5960
+		size = 1710
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 113254
+		size = 32504
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 5960
+		size = 1710
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 6556
+		size = 1881
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 444674
+		size = 127624
 	}
 	officers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 1788
+		size = 513
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
-		size = 17882
+		size = 5132
 	}
 }
 
@@ -3858,37 +3858,37 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 501
+		size = 1751
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 2004
+		size = 7004
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 400
+		size = 1400
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 501
+		size = 1751
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 45405
+		size = 158655
 	}
 	officers = {
 		culture = placeholder
 		religion = placeholder
-		size = 50
+		size = 175
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 1252
+		size = 4377
 	}
 }
 
@@ -4192,32 +4192,32 @@
 # 
 1254 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 104
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 312
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 20
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 31
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 9901
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 52
 	}
@@ -4260,32 +4260,32 @@
 # 
 1258 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 551
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 1103
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 220
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 331
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 52527
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 441
 	}
@@ -4328,32 +4328,32 @@
 # 
 1262 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 133
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 133
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 26
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 53
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 12913
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 53
 	}
@@ -4362,32 +4362,32 @@
 # 
 1264 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 306
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 613
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 183
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 183
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 28907
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 459
 	}
@@ -4464,37 +4464,37 @@
 # 
 1268 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 315
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 631
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 189
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 157
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 29547
 	}
 	officers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 31
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 694
 	}
@@ -4946,37 +4946,37 @@
 # 
 1293 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 392
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 1176
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 235
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 235
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 36026
 	}
 	officers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 156
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 980
 	}
@@ -5063,32 +5063,32 @@
 # 
 1297 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 530
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 1061
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 212
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 212
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 50556
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 477
 	}
@@ -5136,32 +5136,32 @@
 # 
 1299 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 85
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 85
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 17
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 25
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 8307
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 68
 	}
@@ -5323,32 +5323,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 180
+		size = 305
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 361
+		size = 611
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 72
+		size = 122
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 54
+		size = 91
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 17202
+		size = 29115
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 180
+		size = 305
 	}
 }
 
@@ -5430,32 +5430,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 177
+		size = 302
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 354
+		size = 604
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 70
+		size = 120
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 53
+		size = 90
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 16942
+		size = 28880
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 141
+		size = 241
 	}
 }
 
@@ -5564,32 +5564,32 @@
 # 
 1327 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 157
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 314
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 62
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 94
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 14919
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 172
 	}
@@ -6279,32 +6279,32 @@
 # 
 1374 = {
 	aristocrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 270
 	}
 	artisans = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 540
 	}
 	bureaucrats = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 108
 	}
 	clergymen = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 108
 	}
 	farmers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 25725
 	}
 	soldiers = {
-		culture = severyanian_pony
+		culture = marelander_pony
 		religion = placeholder
 		size = 270
 	}
@@ -6571,37 +6571,37 @@
 # 
 1398 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 4533
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 95195
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 4533
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 5893
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 323665
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 2719
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 16772
 	}
@@ -7608,32 +7608,32 @@
 # 
 1467 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 627
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1883
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 251
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 188
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 59520
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 313
 	}
@@ -7963,37 +7963,37 @@
 # 
 1491 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 999
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 2999
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 599
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 499
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 93170
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 199
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1499
 	}
@@ -8158,37 +8158,37 @@
 # 
 1498 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 853
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 12798
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 682
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 597
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 68260
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 255
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1877
 	}
@@ -8528,37 +8528,37 @@
 # 
 1521 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 553
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1106
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 331
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 276
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 51779
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 55
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1217
 	}
@@ -8781,37 +8781,37 @@
 # 
 1544 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 706
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1412
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 423
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 494
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 65886
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 70
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1624
 	}
@@ -9207,6 +9207,40 @@
 }
 
 # 
+1571 = {
+	aristocrats = {
+		culture = placeholder
+		religion = placeholder
+		size = 268
+	}
+	artisans = {
+		culture = placeholder
+		religion = placeholder
+		size = 537
+	}
+	bureaucrats = {
+		culture = placeholder
+		religion = placeholder
+		size = 107
+	}
+	clergymen = {
+		culture = placeholder
+		religion = placeholder
+		size = 107
+	}
+	farmers = {
+		culture = placeholder
+		religion = placeholder
+		size = 25480
+	}
+	soldiers = {
+		culture = placeholder
+		religion = placeholder
+		size = 349
+	}
+}
+
+# 
 1573 = {
 	aristocrats = {
 		culture = placeholder
@@ -9277,39 +9311,39 @@
 # 
 1581 = {
 	aristocrats = {
-		culture = placeholder
+		culture = nova_griffin
 		religion = placeholder
-		size = 959
+		size = 584
 	}
 	artisans = {
-		culture = placeholder
+		culture = nova_griffin
 		religion = placeholder
-		size = 1919
+		size = 1169
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = nova_griffin
 		religion = placeholder
-		size = 575
+		size = 350
 	}
 	clergymen = {
-		culture = placeholder
+		culture = nova_griffin
 		religion = placeholder
-		size = 671
+		size = 409
 	}
 	farmers = {
-		culture = placeholder
+		culture = nova_griffin
 		religion = placeholder
-		size = 90199
+		size = 54949
 	}
 	officers = {
-		culture = placeholder
+		culture = nova_griffin
 		religion = placeholder
-		size = 95
+		size = 58
 	}
 	soldiers = {
-		culture = placeholder
+		culture = nova_griffin
 		religion = placeholder
-		size = 1535
+		size = 935
 	}
 }
 
@@ -9488,64 +9522,64 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 177
+		size = 302
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 532
+		size = 907
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 70
+		size = 120
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 53
+		size = 90
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 16641
+		size = 28366
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 266
+		size = 453
 	}
 }
 
 # 
 1602 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 178
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 535
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 71
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 53
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 16840
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 178
 	}
@@ -9622,32 +9656,32 @@
 # 
 1608 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 232
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 698
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 93
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 69
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 22013
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 186
 	}
@@ -9958,32 +9992,32 @@
 # 
 1634 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 211
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 633
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 84
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 84
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 19787
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 316
 	}
@@ -10099,32 +10133,32 @@
 # 
 1640 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 222
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 668
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 89
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 89
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 21003
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 222
 	}
@@ -10746,32 +10780,32 @@
 # 
 1692 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 185
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 555
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 74
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 92
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 17441
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 166
 	}
@@ -10814,37 +10848,37 @@
 # 
 1694 = {
 	aristocrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 1729
 	}
 	artisans = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 6919
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 1383
 	}
 	clergymen = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 1556
 	}
 	farmers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 158099
 	}
 	officers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 518
 	}
 	soldiers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 2767
 	}
@@ -11169,32 +11203,32 @@
 # 
 1712 = {
 	aristocrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 807
 	}
 	artisans = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 1615
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 323
 	}
 	clergymen = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 484
 	}
 	farmers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 76639
 	}
 	soldiers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 888
 	}
@@ -11315,37 +11349,37 @@
 # 
 1721 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 916
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 2749
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 549
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 549
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 84769
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 183
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1924
 	}
@@ -11354,37 +11388,37 @@
 # 
 1722 = {
 	aristocrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 653
 	}
 	artisans = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 1307
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 392
 	}
 	clergymen = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 457
 	}
 	farmers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 61184
 	}
 	officers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 196
 	}
 	soldiers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 1176
 	}
@@ -11573,37 +11607,37 @@
 # 
 1742 = {
 	aristocrats = {
-		culture = placeholder
+		culture = boreal_changeling
 		religion = placeholder
 		size = 1344
 	}
 	artisans = {
-		culture = placeholder
+		culture = boreal_changeling
 		religion = placeholder
 		size = 32279
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = boreal_changeling
 		religion = placeholder
 		size = 1479
 	}
 	clergymen = {
-		culture = placeholder
+		culture = boreal_changeling
 		religion = placeholder
 		size = 1748
 	}
 	farmers = {
-		culture = placeholder
+		culture = boreal_changeling
 		religion = placeholder
 		size = 92669
 	}
 	officers = {
-		culture = placeholder
+		culture = boreal_changeling
 		religion = placeholder
 		size = 672
 	}
 	soldiers = {
-		culture = placeholder
+		culture = boreal_changeling
 		religion = placeholder
 		size = 4303
 	}
@@ -11797,37 +11831,37 @@
 # 
 1755 = {
 	aristocrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 4854
 	}
 	artisans = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 87386
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 5340
 	}
 	clergymen = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 5825
 	}
 	farmers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 360224
 	}
 	officers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 3398
 	}
 	soldiers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 18448
 	}
@@ -11836,32 +11870,32 @@
 # 
 1756 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 464
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 2322
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 371
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 417
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 41983
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 882
 	}
@@ -12055,37 +12089,37 @@
 # 
 1764 = {
 	aristocrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 2509
 	}
 	artisans = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 50198
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 3262
 	}
 	clergymen = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 3262
 	}
 	farmers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 178706
 	}
 	officers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 1756
 	}
 	soldiers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 11294
 	}
@@ -12162,37 +12196,37 @@
 # 
 1771 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1013
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 3041
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 608
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 709
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 92857
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 405
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 2737
 	}
@@ -12269,37 +12303,37 @@
 # 
 1774 = {
 	aristocrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 579
 	}
 	artisans = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 1738
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 347
 	}
 	clergymen = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 463
 	}
 	farmers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 53373
 	}
 	officers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 173
 	}
 	soldiers = {
-		culture = placeholder
+		culture = herzlander_griffin
 		religion = placeholder
 		size = 1274
 	}
@@ -12308,37 +12342,37 @@
 # 
 1776 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 761
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 18268
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 913
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 989
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 52369
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 532
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 2283
 	}
@@ -12790,37 +12824,37 @@
 # 
 1801 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 932
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 16782
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1118
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1305
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 69181
 	}
 	officers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 372
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 3543
 	}
@@ -13327,37 +13361,37 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 116
+		size = 429
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 349
+		size = 1287
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 69
+		size = 257
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 93
+		size = 343
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 10758
+		size = 39602
 	}
 	officers = {
 		culture = placeholder
 		religion = placeholder
-		size = 23
+		size = 85
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 244
+		size = 901
 	}
 }
 
@@ -13744,32 +13778,32 @@
 # 
 1854 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 626
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 1879
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 250
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 250
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 59322
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 313
 	}
@@ -13778,32 +13812,32 @@
 # 
 1855 = {
 	aristocrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 468
 	}
 	artisans = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 937
 	}
 	bureaucrats = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 187
 	}
 	clergymen = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 187
 	}
 	farmers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 44548
 	}
 	soldiers = {
-		culture = placeholder
+		culture = griffking_griffin
 		religion = placeholder
 		size = 562
 	}
@@ -13814,32 +13848,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 77
+		size = 289
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 154
+		size = 579
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 15
+		size = 57
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 23
+		size = 86
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 7367
+		size = 27682
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 69
+		size = 260
 	}
 }
 
@@ -13921,32 +13955,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 60
+		size = 260
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 181
+		size = 781
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 12
+		size = 52
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 18
+		size = 78
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 5756
+		size = 24796
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 18
+		size = 78
 	}
 }
 
@@ -14956,32 +14990,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 57
+		size = 257
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 173
+		size = 773
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 23
+		size = 103
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 23
+		size = 103
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 5424
+		size = 24224
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 69
+		size = 309
 	}
 }
 
@@ -15131,32 +15165,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 106
+		size = 419
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 106
+		size = 419
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 21
+		size = 83
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 32
+		size = 125
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 10345
+		size = 40626
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 64
+		size = 251
 	}
 }
 
@@ -15384,32 +15418,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 66
+		size = 379
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 133
+		size = 758
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 13
+		size = 75
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 13
+		size = 75
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 6400
+		size = 36400
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 40
+		size = 227
 	}
 }
 
@@ -19733,32 +19767,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 39
+		size = 276
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 118
+		size = 830
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 7
+		size = 55
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 11
+		size = 83
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 3752
+		size = 26362
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 11
+		size = 83
 	}
 }
 
@@ -20404,37 +20438,37 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 72
+		size = 272
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 216
+		size = 816
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 43
+		size = 163
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 50
+		size = 190
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 6664
+		size = 25104
 	}
 	officers = {
 		culture = placeholder
 		religion = placeholder
-		size = 14
+		size = 54
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 166
+		size = 626
 	}
 }
 

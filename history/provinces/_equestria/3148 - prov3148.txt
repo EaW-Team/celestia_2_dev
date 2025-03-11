@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = DEL
+controller = DEL
+add_core = DEL
 trade_goods = cattle
 life_rating = 35
 

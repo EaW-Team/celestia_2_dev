@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = CAM
+controller = CAM
+add_core = CAM
 trade_goods = grain
 life_rating = 35
 
