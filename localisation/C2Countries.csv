@@ -14,7 +14,7 @@ PLB;Polar Bear;;x
 PNG;Kingdom of Pingland;;x
 PNG_ADJ;Penguin;;x
 GRF;Nova Griffonia;;x
-GRF;Nova Gryphon;;x
+GRF_ADJ;Nova Griffin;;x
 SEV;Tsardom of Severyana;;x
 SEV_ADJ;Severyana;;x
 EQC;New Mareland;;x
@@ -177,3 +177,145 @@ CST;Canterstin;;x
 CST_ADJ;Canterstinian;;x
 MCW;Macawia;;x
 MCW_ADJ;Macawian;;x
+SDL;Saddle Arabia;;x
+SDL_ADJ;Saddle Arabian;;x
+MAZ;Imperial Mazwi;;x
+MAZ_AJD;Mazwi;;x
+AUS;Asstyria;;x
+AUS_ADJ;Asstyrian;;x
+SUM;Anseruk;;x
+SUM_ADJ;Anseruk;;x
+ABY;Abyssinia;;x
+ABY_ADJ;Abyssinian;;x
+MAG;Maregypt;;x
+MAG_ADJ;Maregyptian;;;x
+CHI;Chiropterra;;x
+CHI_ADJ;Chiropterran;;x
+MTO;Maretonia;;x
+MTO_ADJ;Maretonian;;x
+AES;Aestlonia;;x
+AES_ADJ;Aestlonian;;x
+OSQ;Osqat;;x
+OSQ_ADJ;Osqat;;x
+HMR;Haymar;;x
+HMR_ADJ;Haymirite;;x
+MAR;Maretania;;x
+MAR_ADJ;Maretanian;;x
+WAR;Warzena;;x
+WAR_ADJ;Warzenan;;x
+ZUM;Zumidia;;x
+ZUM_ADJ;Zumidian;;x
+YEM;Yemane;;x
+YEM_ADJ;Yemanian;;x
+ZEL;Gelon-Zornu;;x
+ZEL_ADJ;Zornu;;x
+HYE;Queendom of Hyenia;;x
+HYE_ADJ;Hyena;;x
+CEN;Senturya;;x
+CEN_ADJ;Centuar;;x
+GAR;Gargiloya;;x
+GAR_ADJ;Gargoyle;;x
+TWI;Twizanyika;;x
+TWI_ADJ;Giraffe;;x
+CAM;Camel Tribes;;x
+CAM_ADJ;Camel;;x
+ROA;Roaman Kaiserate;;x
+ROA_ADJ;Roaman;;x
+TSV;Talonsvaal Republiek;;x
+TSV_ADJ;Talonsvaal;;x
+GFS;Vrystaat;;x
+GFS_ADJ;Vrystaat;;x
+ZBL;Zeblu;;x
+ZBL_ADJ;Zeblu;;x
+ZOO;Kingdom of Zongo;;x
+ZOO_ADJ;Zongo;;x
+TAI;Tanaigha;;x
+TAI_ADJ;Tanaighan;;x
+MEL;Melahaka;;x
+MEL_ADJ;Melahakan;;x
+MQA;Sambovato;;x
+MQA_ADJ;Sambovato;;x
+IST;Maglibing;;x
+IST_ADJ;Maglibingian;;x
+DEL;Talarayi;;x
+DEL_ADJ;Talarayian;;x
+LOT;Lotus Kingdom;;x
+LOT_ADJ;Senkinese;;x
+HIP;Hippogriffia;;x
+HIP_ADJ;Hippogriff;;x
+CLT;Colthage;;x
+CLT_ADJ;Colthaginian;;x
+QUA;Quaggatai;;x
+QUA_ADJ;Quagga;;x
+BKH;Buckhara;;x
+BKH_ADJ;Buckharan;;x
+MAE;Manedalusia;;x
+MAE_ADJ;Manedalusian;;x
+HRV;Uusi Hirvimaa;;x
+HRV_ADJ;Hirvimaaian;;x
+CTL;Chitral;;x
+CTL_ADJ;Chitali;;x
+SAM;Sambar;;x
+SAM_ADJ;Sambari;;x
+KIR;Kiria;;;x
+KIR_ADJ;Kirian;;x
+GAZ;Taungpau;;x
+GAZ_ADJ;Taungpau;;x
+LMB;Llambet;;x
+LMB_ADJ;Llambetan;;x
+KLG;Klugetown;;x
+KLG_ADJ;Klugetowner;;x
+MOZ;Mozzi;;x
+MOZ_ADJ;Mozzian;;x
+REE;Re'em;;x
+REE_ADJ;Re'emite;;x
+IDO;Naugdaw;;x
+IDO_ADJ;Nagudawian;;x
+KXN;Lan Kir;;x
+KXN_ADJ;Lan Kir;;x
+KHM;Khamrin;;x
+KHM_ADJ;Khamrin;;x
+BLO;Blossom;;;x
+BLO_ADJ;Senkinese;;x
+COG;Cogon;;x
+COG_ADJ;Senkinese;;x
+TAN;Tannin;;x
+TAN_ADJ;Senkinese;;x
+TCC;Tacca;;x
+TCC_ADJ;Senkinese;;x
+HAF;Hai Font;;x
+HAF_ADJ;Senkinese;;x
+FUR;Fureshapur;;x
+FUR_ADJ;Fureshapurian;;x
+DLH;Doelhi;;x
+DLH_ADJ;Doelhi;;x
+DER;Deerwar;;x
+DER_ADJ;Deerwari;;x
+HAR;Hart;;x
+HAR_ADJ;Harti;;x
+ALH;Antlahore;;x
+ALH_ADJ;Antlahori;;x
+STK;Stagataka;;x
+STK_ADJ;Stagatakan;;x
+KA1;Jamirids;;x
+KA1_ADJ;Jamiri;;x
+KA2;Sayyarids;;x
+KA2_ADJ;Sayyari;;x
+KA3;Qazmani;;x
+KA3_ADJ;Qazmani;;x
+KA4;Karkhaemenids;;x
+KA4_ADJ;Karkhaemeni;;x
+KA5;Jogatarri;;x
+KA5_ADJ;Jogatarri;;x
+KA6;Buckluchi;;x
+KA6_ADJ;Buckluchi;;x
+MZM;Mzizima;;x
+MZM_ADJ;Mziziman;;x
+MUN;Munmane;;x
+MUN_ADJ;Munmaneigh;;x
+NYA;Nyambori;;x
+NYA_ADJ;Nyambori;;x
+ZUN;Zund;;x
+ZUN_ADJ;Zundi;;x
+UMB;Umbasi;;x
+UMB_ADJ;Umbasi;;x

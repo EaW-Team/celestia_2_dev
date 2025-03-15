@@ -793,7 +793,6 @@ MOVEMENT_RADICALISM_ADJUST;§Y$MOVEMENT$§! Radicalism: $AMOUNT$;§Y$MOVEMENT$§! du
 MILITARY_REFORM_COST_DESC;Cost modifier for military reforms: ;Coût du modificateur pour les réformes militaires : ;Kostenmodifikator für militärische Reformen:;;;;;;;;;;;x
 ECONOMIC_REFORM_COST_DESC;Cost modifier for economic reforms: ;Coût du modificateur pour les réformes économiques : ;Kostenmodifikator für wirtschaftliche Reformen:;;;;;;;;;;;x
 MAPMODE_19;Civilization Level;Niveau de civilisation;Zivilisationsstufe;;;;;;;;;;;x
-CHI_absolute_monarchy;The Chinese Empire;Empire Chinois;Das Chinesische Reich;;;;;;;;;;;x
 EVTOPTB23212;Keep looking at the sky!;Continuez de regarder au ciel !;Schau weiter in den Himmel!;;;;;;;;;;;x
 LOSE_CIVILIZED_EFFECT;We shall be known as an §YUncivilized Nation§W\n;Nous allons être considérés comme §Ynation non-civilisée§W\n;Man soll uns kennen als §YUnzivilisierte Nation§W\n;;;;;;;;;;;x
 french_growth_nerf;French Population decline:;Déclin de la population française ;Rückgang der Französischen Bevölkerung:;;;;;;;;;;;x
