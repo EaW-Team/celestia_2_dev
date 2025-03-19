@@ -198,22 +198,18 @@ categories =  {
 	everfree = {
 		attrition = 1.0
 		defence = 2
-		movement_cost = 2.00
+		movement_cost = 1.9
 		supply_limit = 0
 		color = { 2 16 58 }
 
-		farm_rgo_size = -1
-		farm_rgo_eff = 0.000
-		mine_rgo_size = -1
-		mine_rgo_eff = 0.0
-		combat_width = -1
-
-		min_build_fort = 0
-		min_build_railroad = 0
-
-		immigrant_attract = -1
-		immigrant_push = 0.00
-		population_growth = -1.00
+		farm_rgo_size = -0.95
+		farm_rgo_eff = -0.95
+		mine_rgo_size = -0.95
+		mine_rgo_eff = -0.95
+		combat_width = -0.9
+		min_build_railroad = 5
+		immigrant_attract = -1000
+		population_growth = -0.002
 		}
 
 }
