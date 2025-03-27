@@ -2,6 +2,6 @@
 owner = SDL
 controller = SDL
 add_core = SDL
-trade_goods = iron
+trade_goods = coal
 life_rating = 35
 

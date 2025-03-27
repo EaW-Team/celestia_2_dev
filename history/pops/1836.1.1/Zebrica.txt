@@ -3006,37 +3006,37 @@
 	}
 }
 
-# 
+# Canters
 938 = {
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 82
+		size = 45
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 248
+		size = 135
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 33
+		size = 18
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 33
+		size = 18
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 7689
+		size = 4205
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 190
+		size = 104
 	}
 }
 
@@ -19132,32 +19132,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 82
+		size = 119
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 246
+		size = 359
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 32
+		size = 47
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 24
+		size = 35
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 7737
+		size = 11266
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 98
+		size = 143
 	}
 }
 

@@ -1,6 +1,6 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GRI
-controller = GRI
+owner = WNG
+controller = WNG
 add_core = WNG
 trade_goods = coal
 life_rating = 35

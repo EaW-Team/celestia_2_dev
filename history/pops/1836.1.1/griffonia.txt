@@ -16960,32 +16960,32 @@
 	aristocrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 36
+		size = 161
 	}
 	artisans = {
 		culture = placeholder
 		religion = placeholder
-		size = 73
+		size = 323
 	}
 	bureaucrats = {
 		culture = placeholder
 		religion = placeholder
-		size = 7
+		size = 32
 	}
 	clergymen = {
 		culture = placeholder
 		religion = placeholder
-		size = 10
+		size = 48
 	}
 	farmers = {
 		culture = placeholder
 		religion = placeholder
-		size = 3517
+		size = 15542
 	}
 	soldiers = {
 		culture = placeholder
 		religion = placeholder
-		size = 10
+		size = 48
 	}
 }
 
