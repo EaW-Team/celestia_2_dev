@@ -96,33 +96,6 @@ machine_part_user_template = {
 	workforce = 20000 #10000
 }
 
-world_bank_template = {
-	owner =
-	{
-		poptype = capitalists
-		effect = output
-	}
-		
-	employees = {
-		{ 
-			poptype = craftsmen
-			effect = throughput
-			amount = 1
-		}
-	}
-	type = factory
-	workforce = 10000
-}
-
-world_bank_factory = {       
-	template = world_bank_template
-	input_goods = {
-		precious_metal = 0.01
-	}
-	output_goods = precious_metal
-	value = 100
-}
-
 #wool_fabric_factory = {       
 #	template = factory_template
 #	input_goods = {     
@@ -1037,7 +1010,7 @@ RGO_template_labourers = {
 RGO_template_bankers = {
 	owner =
 	{
-		poptype = aristocrats
+		poptype = bankers
 		effect = output
 	}
 		
@@ -1045,12 +1018,12 @@ RGO_template_bankers = {
 		{ 
 			poptype = bankers
 			effect = throughput
-			amount = 1
+			amount = 10
 		}
 	}
 	
 	type = rgo
-	workforce = 400000
+	workforce = 160000
 }
 
 
@@ -1134,7 +1107,7 @@ orchard = {
 precious_metal_mine = {
 	template = RGO_template_bankers
 	output_goods = precious_metal 
-	value = 10000
+	value = 700
 	mine = yes
 }
 

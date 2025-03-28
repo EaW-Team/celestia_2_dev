@@ -170,7 +170,6 @@ country_event = {
 	
 	option = {
 		name = "Alright, sounds good."
-		build_factory_in_capital_state = world_bank_factory
 		add_country_modifier = {
 			name = world_bank_rp_nerf
 			duration = -1

@@ -1047,7 +1047,6 @@ assimilation_chance = {
 	group = {
 		modifier = {
 			factor = 10
-			has_culture_core = yes
 		}
 		modifier = {
 			factor = -9.9

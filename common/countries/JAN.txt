@@ -8,8 +8,8 @@ party = {
 
 	ideology = liberal
 
-	economic_policy = interventionism
-	trade_policy = protectionism
+	economic_policy = world_bank_economics
+	trade_policy = world_bank
 	religious_policy = pluralism
 	citizenship_policy = residency
 	war_policy = pro_military

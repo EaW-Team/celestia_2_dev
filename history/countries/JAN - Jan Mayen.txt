@@ -1,11 +1,18 @@
 capital = 1128
-primary_culture = polar_bears
+primary_culture = placeholder
+culture = penguin
+culture = polar_bears
+culture = equestrian_pony
+culture = marelander_pony
+culture = crystal_pony
+culture = severyanian_pony
+culture = trotsan_pony
 religion = placeholder
 government = absolute_monarchy
 plurality = 100
 nationalvalue = nv_order
 literacy = 1
-civilized = yes
+civilized = no
 is_releasable_vassal = no
 
 # Political reforms - inherit
@@ -27,7 +34,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = generic_conservative
+ruling_party = JAN_anarcho_liberal
 upper_house = { # inherit
 	fascist = 0
 	liberal = 25
