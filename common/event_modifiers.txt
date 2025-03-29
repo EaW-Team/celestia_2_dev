@@ -128,6 +128,7 @@ world_bank_rp_nerf = {
 	global_pop_militancy_modifier = -100.0
 	research_points_modifier = -1
 	prestige = -10
+	tariff_efficiency_modifier = 1
 	icon = 10
 }
 
