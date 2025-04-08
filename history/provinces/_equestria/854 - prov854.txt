@@ -2,6 +2,6 @@
 owner = SDL
 controller = SDL
 add_core = SDL
-trade_goods = c
+trade_goods = cattle
 life_rating = 35
 

@@ -11,6 +11,15 @@ unciv_diplo = {
 	diplomatic_points_modifier = -100
 }
 
+eco_boost = {
+	trigger = {
+		civilized = yes
+		NOT = { year = 1870 }
+	}
+	goods_demand = -0.05
+	icon = 6
+}
+
 #Money Hoarding Mallus to Taxes and Tariffs test implementation
 desperate_nation  = {
 	trigger = {
