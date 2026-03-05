@@ -1,0 +1,42 @@
+1778 = {
+	bankers = {
+		culture = placeholder
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = penguin
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = polar_bears
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = equestrian_pony
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = marelander_pony
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = crystal_pony
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = severyanian_pony
+		religion = placeholder
+		size = 20000
+	}
+	bankers = {
+		culture = trotsan_pony
+		religion = placeholder
+		size = 20000
+	}
+}
