@@ -1,33 +1,33 @@
-		country_event = {
-			id = 10001
-			title = "EVTNAME10001"
-			desc = "click this or bad shit happens"
-			
-			option = {
-				name = "EVTOPTA10001"
-					529 = { change_province_name = "Crystal City Center" }
-					525 = { change_province_name = "Crystal City" }
-					588 = { change_province_name = "Porridge Town" }
-					589 = { change_province_name = "Rainbow Falls" }
-					554 = { change_province_name = "Rubrum" }
-					432 = { change_province_name = "Hearthome" }
-					492 = { change_province_name = "Ponytown" }
-					385 = { change_province_name = "Mi Amore" }
-					409 = { change_province_name = "Snowybury" }
-					2202 = { change_province_name = "Hedgewards" }
-					336 = { change_province_name = "Evergreen" }
-					383 = { change_province_name = "Quebuck" }
-					384 = { change_province_name = "Canterine" }
-					448 = { change_province_name = "Whinnypeg" }
-					68 = { change_province_name = "Maneitoba" }
-					391 = { change_province_name = "Whitepony" }
-					636 = { change_province_name = "Hayfax" }
-					1129 = { change_province_name = "Cowgary" }
-					1073 = { change_province_name = "Grainby" }
-					379 = { change_province_name = "Yellowneigh" }
-					836 = { change_province_name = "Sagueneigh" }
-					503 = { change_province_name = "Val-d'Mare" }
-					694 = { change_province_name = "Boisbridle" }
-					319 = { change_province_name = "Haymilton" }
-			}
-		}
+#		country_event = {
+#			id = 10001
+#			title = "EVTNAME10001"
+#			desc = "click this or bad shit happens"
+#			
+#			option = {
+#				name = "EVTOPTA10001"
+#					529 = { change_province_name = "Crystal City Center" }
+#					525 = { change_province_name = "Crystal City" }
+#					588 = { change_province_name = "Porridge Town" }
+#					589 = { change_province_name = "Rainbow Falls" }
+#					554 = { change_province_name = "Rubrum" }
+#					432 = { change_province_name = "Hearthome" }
+#					492 = { change_province_name = "Ponytown" }
+#					385 = { change_province_name = "Mi Amore" }
+#					409 = { change_province_name = "Snowybury" }
+#					2202 = { change_province_name = "Hedgewards" }
+#					336 = { change_province_name = "Evergreen" }
+#					383 = { change_province_name = "Quebuck" }
+#					384 = { change_province_name = "Canterine" }
+#					448 = { change_province_name = "Whinnypeg" }
+#					68 = { change_province_name = "Maneitoba" }
+#					391 = { change_province_name = "Whitepony" }
+#					636 = { change_province_name = "Hayfax" }
+#					1129 = { change_province_name = "Cowgary" }
+#					1073 = { change_province_name = "Grainby" }
+#					379 = { change_province_name = "Yellowneigh" }
+#					836 = { change_province_name = "Sagueneigh" }
+#					503 = { change_province_name = "Val-d'Mare" }
+#					694 = { change_province_name = "Boisbridle" }
+#					319 = { change_province_name = "Haymilton" }
+#			}
+#		}

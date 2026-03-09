@@ -1,12 +1,12 @@
 ###Twinkle Sprinkle's Guide###
-		country_event = {
-			id = 11001
-			title = "EVENTNAME11001"
-			desc = "EVENTDESC11001"
-			picture = "EQMap"
-			
-			option = {
-				name = "EVENTOPT111001"
-				prestige = 10
-				}
-			}
+#		country_event = {
+#			id = 11001
+#			title = "EVENTNAME11001"
+#			desc = "EVENTDESC11001"
+#			picture = "EQMap"
+#			
+#			option = {
+#				name = "EVENTOPT111001"
+#				prestige = 10
+#				}
+#			}
