@@ -1,0 +1,15 @@
+indirect_rule;Indirect Rule\n§WDoesn't Allow Colonial Migration;;;;;;;;;x;;;;
+settlement;Settlement\n§WAllows Colonial Migration;;;;;;;;;x;;;;
+zstate_colonial_policyindirect_desc;Triggers a province event that allows you to choose a colonial policy.;;;;;;;;;x;;;;
+zstate_colonial_policyindirect_title;§GColonial Policy;;;;;;;;;x;;;;
+zstate_colonial_policysettlement_desc;Triggers a province event that allows you to choose a colonial policy.;;;;;;;;;x;;;;
+zstate_colonial_policysettlement_title;§GColonial Policy;;;;;;;;;x;;;;
+EVTNAME91520;Clear Colonial Policy;;;;;;;x
+EVTDESC91520;This event will clear all colonial policy modifers for your nation.;;;;;;;;;;;;;;;;;;;x
+EVTOPTA91520;Thank you;;;;;;;;;x;;;;
+EVTNAME91521;$COUNTRYADJ$ Colonial Policy;;;;;;;;;x;;;;
+EVTDESC91521;We must decide how to govern our colonies. Indirect rule prevents colonial migration. Wheras Settlement allows colonial migration to our colonies. You cannot mix and match these.;;;;;;;;;x;;;;
+EVTOPTA91521;Indirect Rule;;;;;;;;;x;;;;
+EVTOPTC91521;Settlement;;;;;;;;;x;;;;
+EVTNAME91522;Colonial Policy Auto Application;;;;;;;x
+EVTDESC91522;This event will automatically add your colonial policy modifers to your new colonies.;;;;;;;;;;;;;;;;;;;;x

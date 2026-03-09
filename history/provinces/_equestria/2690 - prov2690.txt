@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = CEN
+controller = CEN
+add_core = CEN
+trade_goods = coal
+life_rating = 35
+

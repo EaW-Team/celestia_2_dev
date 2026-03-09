@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = IDO
+controller = IDO
+add_core = IDO
+trade_goods = timber
+life_rating = 35
+

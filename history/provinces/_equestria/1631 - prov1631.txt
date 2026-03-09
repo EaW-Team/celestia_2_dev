@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = WAR
+controller = WAR
+add_core = WAR
+trade_goods = fruit
+life_rating = 35
+

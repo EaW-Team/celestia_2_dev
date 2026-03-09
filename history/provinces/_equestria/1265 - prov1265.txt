@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = KLO
+controller = KLO
+add_core = KLO
+trade_goods = coal
+life_rating = 35
+

@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = KIR
+controller = KIR
+add_core = KIR
+trade_goods = coal
+life_rating = 35
+

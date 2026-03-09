@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = TAN
+controller = TAN
+add_core = TAN
+trade_goods = tea
+life_rating = 35
+

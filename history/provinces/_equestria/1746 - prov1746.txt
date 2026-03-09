@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = LAK
+controller = LAK
+add_core = LAK
+trade_goods = coal
+life_rating = 35
+

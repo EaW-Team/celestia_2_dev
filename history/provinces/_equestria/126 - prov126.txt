@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = DIT
+controller = DIT
+add_core = DIT
+trade_goods = silk
+life_rating = 35
+

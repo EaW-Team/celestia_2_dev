@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = BKH
+controller = BKH
+add_core = BKH
+trade_goods = cattle
+life_rating = 35
+

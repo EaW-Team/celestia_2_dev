@@ -1,0 +1,5 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+
+trade_goods = tobacco
+life_rating = 35
+

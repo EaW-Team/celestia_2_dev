@@ -1,0 +1,7 @@
+#Made with Vic2 Map Maker Tool by Dotdot :) 
+owner = PNG
+controller = PNG
+add_core = PNG
+trade_goods = fish
+life_rating = 35
+
