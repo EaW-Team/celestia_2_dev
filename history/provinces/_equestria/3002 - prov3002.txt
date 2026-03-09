@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = COG
-controller = COG
-add_core = COG
-trade_goods = fruit
-life_rating = 35
-

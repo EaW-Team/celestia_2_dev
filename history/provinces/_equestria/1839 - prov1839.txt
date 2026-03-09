@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = SKY
-controller = SKY
-add_core = SKY
-trade_goods = coal
-life_rating = 35
-

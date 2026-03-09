@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = LMB
-controller = LMB
-add_core = LMB
-trade_goods = cattle
-life_rating = 35
-

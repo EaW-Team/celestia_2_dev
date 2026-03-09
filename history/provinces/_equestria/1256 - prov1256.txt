@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = SUM
-controller = SUM
-add_core = SUM
-trade_goods = wool
-life_rating = 35
-

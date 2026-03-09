@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = OLV
-controller = OLV
-add_core = OLV
-trade_goods = fish
-life_rating = 35
-

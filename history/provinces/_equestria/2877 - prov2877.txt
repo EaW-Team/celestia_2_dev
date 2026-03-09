@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = TAI
-controller = TAI
-add_core = TAI
-trade_goods = opium
-life_rating = 35
-

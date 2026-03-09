@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = CST
-controller = CST
-add_core = CST
-trade_goods = wool
-life_rating = 35
-

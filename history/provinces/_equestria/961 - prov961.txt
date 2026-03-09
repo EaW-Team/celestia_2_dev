@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = SDL
-controller = SDL
-add_core = SDL
-trade_goods = sulphur
-life_rating = 35
-

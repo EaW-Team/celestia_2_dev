@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GFS
-controller = GFS
-add_core = GFS
-trade_goods = grain
-life_rating = 35
-

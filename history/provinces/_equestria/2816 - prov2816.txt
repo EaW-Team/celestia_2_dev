@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = ALH
-controller = ALH
-add_core = ALH
-trade_goods = iron
-life_rating = 35
-

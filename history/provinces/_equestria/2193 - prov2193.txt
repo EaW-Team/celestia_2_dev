@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = ARG
-controller = ARG
-add_core = ARG
-trade_goods = sulphur
-life_rating = 35
-

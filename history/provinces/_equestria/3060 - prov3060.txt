@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = IST
-controller = IST
-add_core = IST
-trade_goods = cattle
-life_rating = 35
-

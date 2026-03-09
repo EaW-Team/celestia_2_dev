@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GSG
-controller = GSG
-add_core = GSG
-trade_goods = fruit
-life_rating = 35
-

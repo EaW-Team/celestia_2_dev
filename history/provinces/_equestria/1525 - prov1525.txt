@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = KA6
-controller = KA6
-add_core = KA6
-trade_goods = cattle
-life_rating = 35
-

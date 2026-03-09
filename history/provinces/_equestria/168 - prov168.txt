@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = VRA
-controller = VRA
-add_core = VRA
-trade_goods = sulphur
-life_rating = 35
-

@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = WNG
-controller = WNG
-add_core = WNG
-trade_goods = grain
-life_rating = 35
-

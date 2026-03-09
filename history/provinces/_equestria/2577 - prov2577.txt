@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = TWI
-controller = TWI
-add_core = TWI
-trade_goods = iron
-life_rating = 35
-

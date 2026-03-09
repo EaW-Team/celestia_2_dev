@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = CHI
-controller = CHI
-add_core = CHI
-trade_goods = iron
-life_rating = 35
-

@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = ZEL
-controller = ZEL
-add_core = ZEL
-trade_goods = cattle
-life_rating = 35
-

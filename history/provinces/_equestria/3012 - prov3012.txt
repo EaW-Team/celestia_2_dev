@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = ZOO
-controller = ZOO
-add_core = ZOO
-trade_goods = wool
-life_rating = 35
-

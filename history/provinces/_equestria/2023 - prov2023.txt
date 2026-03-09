@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GRI
-controller = GRI
-add_core = WNG
-trade_goods = iron
-life_rating = 35
-

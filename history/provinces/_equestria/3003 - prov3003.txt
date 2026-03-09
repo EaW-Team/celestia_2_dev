@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = KXN
-controller = KXN
-add_core = KXN
-trade_goods = tea
-life_rating = 35
-

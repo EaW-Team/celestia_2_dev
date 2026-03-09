@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = HAF
-controller = HAF
-add_core = HAF
-trade_goods = grain
-life_rating = 35
-

@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = OPN
-controller = OPN
-add_core = OPN
-trade_goods = coal
-life_rating = 35
-

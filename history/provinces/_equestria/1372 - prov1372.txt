@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = YEM
-controller = YEM
-add_core = YEM
-trade_goods = grain
-life_rating = 35
-

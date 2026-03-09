@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GAR
-controller = GAR
-add_core = GAR
-trade_goods = cattle
-life_rating = 35
-

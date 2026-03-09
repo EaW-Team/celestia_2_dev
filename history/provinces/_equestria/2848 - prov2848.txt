@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = MQA
-controller = MQA
-add_core = MQA
-trade_goods = iron
-life_rating = 35
-

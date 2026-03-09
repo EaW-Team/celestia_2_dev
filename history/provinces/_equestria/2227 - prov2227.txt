@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GR1
-controller = GR1
-add_core = GR1
-trade_goods = grain
-life_rating = 35
-

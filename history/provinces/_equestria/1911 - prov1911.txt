@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = MAZ
-controller = MAZ
-add_core = MAZ
-trade_goods = cattle
-life_rating = 35
-

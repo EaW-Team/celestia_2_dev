@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = ZUN
-controller = ZUN
-add_core = ZUN
-trade_goods = wool
-life_rating = 35
-

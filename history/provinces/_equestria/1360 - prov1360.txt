@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = MOZ
-controller = MOZ
-add_core = MOZ
-trade_goods = grain
-life_rating = 35
-

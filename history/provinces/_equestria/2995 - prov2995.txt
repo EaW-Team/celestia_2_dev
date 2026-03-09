@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = BLO
-controller = BLO
-add_core = BLO
-trade_goods = tropical_wood
-life_rating = 35
-

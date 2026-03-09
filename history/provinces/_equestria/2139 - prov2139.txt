@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = DMT
-controller = DMT
-add_core = DMT
-trade_goods = coal
-life_rating = 35
-

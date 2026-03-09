@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = SCE
-controller = SCE
-add_core = SCE
-trade_goods = cattle
-life_rating = 35
-

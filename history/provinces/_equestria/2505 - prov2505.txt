@@ -1,7 +1,0 @@
-#Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = MCW
-controller = MCW
-add_core = MCW
-trade_goods = grain
-life_rating = 35
-
