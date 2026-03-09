@@ -1037,6 +1037,36 @@
 		religion = placeholder
 		size = 20
 	}
+	aristocrats = {
+		culture = olenian_deer
+		religion = placeholder
+		size = 62
+	}
+	artisans = {
+		culture = olenian_deer
+		religion = placeholder
+		size = 125
+	}
+	bureaucrats = {
+		culture = olenian_deer
+		religion = placeholder
+		size = 12
+	}
+	clergymen = {
+		culture = olenian_deer
+		religion = placeholder
+		size = 18
+	}
+	farmers = {
+		culture = olenian_deer
+		religion = placeholder
+		size = 5968
+	}
+	soldiers = {
+		culture = olenian_deer
+		religion = placeholder
+		size = 62
+	}
 }
 
 # 
@@ -1259,36 +1289,7 @@
 
 # 
 88 = {
-	aristocrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 62
-	}
-	artisans = {
-		culture = placeholder
-		religion = placeholder
-		size = 125
-	}
-	bureaucrats = {
-		culture = placeholder
-		religion = placeholder
-		size = 12
-	}
-	clergymen = {
-		culture = placeholder
-		religion = placeholder
-		size = 18
-	}
-	farmers = {
-		culture = placeholder
-		religion = placeholder
-		size = 5968
-	}
-	soldiers = {
-		culture = placeholder
-		religion = placeholder
-		size = 62
-	}
+
 }
 
 # 
