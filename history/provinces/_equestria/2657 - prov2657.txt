@@ -4,4 +4,4 @@ controller = CEN
 add_core = CEN
 trade_goods = grain
 life_rating = 35
-
+terrain = magicforest

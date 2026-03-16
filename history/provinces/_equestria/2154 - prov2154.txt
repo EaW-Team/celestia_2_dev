@@ -4,4 +4,4 @@ controller = DEP
 add_core = DEP
 trade_goods = silk
 life_rating = 35
-
+terrain = magicforest
