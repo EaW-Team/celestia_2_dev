@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = OLE
-controller = OLE
-add_core = OLE
+owner = LYC
+controller = LYC
+add_core = LYC
 trade_goods = coal
 life_rating = 35
 

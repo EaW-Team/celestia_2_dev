@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = ROA
-controller = ROA
-add_core = ROA
+owner = TSV
+controller = TSV
+add_core = TSV
 trade_goods = iron
 life_rating = 35
 
