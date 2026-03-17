@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = SKY
-controller = SKY
-add_core = SKY
+owner = VLE
+controller = VLE
+add_core = VLE
 trade_goods = iron
 life_rating = 35
 

@@ -1,5 +1,8 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = GRF
+controller = GRF
+add_core = GRF
+add_core = YAK
 trade_goods = timber
 life_rating = 35
 

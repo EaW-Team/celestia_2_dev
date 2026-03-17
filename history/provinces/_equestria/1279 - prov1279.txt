@@ -1,6 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = GRW
-controller = GRW
+owner = AQU
+controller = AQU
+add_core = AQU
 add_core = GRW
 trade_goods = iron
 life_rating = 35
