@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = MAG
-controller = MAG
-add_core = MAG
+owner = MAE
+controller = MAE
+add_core = MAE
 trade_goods = cattle
 life_rating = 35
 
