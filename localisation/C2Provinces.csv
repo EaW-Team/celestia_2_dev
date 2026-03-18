@@ -9,7 +9,7 @@ PROV390;Western Pegasus Range;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV360;Pegasus Pass;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV437;Canterlot Pass;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV499;Foal Mountain;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV457;Canterlot Suburbs;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PROV457;North Canterlot;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV1587;Eastern Foal Mountain;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV498;Rockridge;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV431;Ponyville Plains;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -1011,9 +1011,7 @@ PROV1254;Balearat;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV1207;Toomoomba;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV1262;Wagga Tailla;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV1203;Neighcastle;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV1175;NW Griffenheim;;;;;;;;;;;;;;;;;;;;;;;;;;;#PLACEHOLDER
-PROV1219;NE Griffenheim;;;;;;;;;;;;;;;;;;;;;;;;;;;#PLACEHOLDER
-PROV1755;South Griffenheim;;;;;;;;;;;;;;;;;;;;;;;;;;;#PLACEHOLDER
+PROV1755;Griffenheim;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #Zebrica;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 PROV2282;Rougues;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -1822,4 +1820,4 @@ PROV377;Lake Marechigan;;;;;;;;;;;;;;;;;;;;;;;;;;
 #sekwit;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 PROV359;Great Ice Wall;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV516;Seriously, nothing to see here;;;;;;;;;;;;;;;;;;;;;;;;;;
+PROV516;Agartha;;;;;;;;;;;;;;;;;;;;;;;;;;

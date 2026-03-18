@@ -342,6 +342,18 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_terrainimg_urban_canterlot"
+		texturefile = "gfx\\interface\\terrain_canterlot.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_crystal"
+		texturefile = "gfx\\interface\\terrain_crystal.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_terrainimg_ocean"
 		texturefile = "gfx\\interface\\terrain_mountains.tga"
 		norefcount = yes
