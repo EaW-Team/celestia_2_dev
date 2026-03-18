@@ -180,7 +180,7 @@ MCW_ADJ;Macawian;;x
 SDL;Saddle Arabia;;x
 SDL_ADJ;Saddle Arabian;;x
 MAZ;Imperial Mazwi;;x
-MAZ_AJD;Mazwi;;x
+MAZ_ADJ;Mazwian;;x
 AUS;Asstyria;;x
 AUS_ADJ;Asstyrian;;x
 SUM;Anseruk;;x
@@ -319,3 +319,5 @@ ZUN;Zund;;x
 ZUN_ADJ;Zundi;;x
 UMB;Umbasi;;x
 UMB_ADJ;Umbasi;;x
+GOR;Gorak;;x
+GOR_ADJ;Gorakian;;x

@@ -1,4 +1,4 @@
-#Please keep tags sorted alphabetically when you add/remove country tags
+#Please keep tags sorted alphabetically when you add/remove country tags #lol no
 #Do not remove this rebel entry.
 REB 	= 	"countries/rebels.txt"
 
@@ -36,6 +36,7 @@ DRG		= "countries/DRG.txt"
 HAY		= "countries/HAY.txt"
 SLL		= "countries/SLL.txt"
 CST		= "countries/CST.txt"
+GOR		= "countries/GOR.txt"
 
 #Griffonia
 EQC		= "countries/EQC.txt"

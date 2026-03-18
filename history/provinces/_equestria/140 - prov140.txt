@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = DIT
-controller = DIT
-add_core = DIT
+owner = GOR
+controller = GOR
+add_core = GOR
 trade_goods = timber
 life_rating = 35
 
