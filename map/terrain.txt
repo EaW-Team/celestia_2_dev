@@ -227,6 +227,17 @@ categories =  {
 		immigrant_attract = -0.5
 	}
 	
+	farmlands_ponyville = {
+		movement_cost = 1.2
+		color = { 137 104 165  }
+		
+		farm_rgo_size = 0.2
+		farm_rgo_eff = 0.2
+		mine_rgo_size = 0.0
+		mine_rgo_eff = 0.0
+		supply_limit = 10
+	}
+	
 	urban = {
 		movement_cost = 1.00
 		defence = 2
@@ -250,6 +261,50 @@ categories =  {
 	}
 	
 	urban_crystal = {
+		movement_cost = 1.00
+		defence = 2
+		color = { 140 150 130 }
+		farm_rgo_eff = 0.10
+		farm_rgo_size = -0.25
+		mine_rgo_eff = 0.10
+		mine_rgo_size = -0.25
+		supply_limit = 10.00
+	}
+	
+	urban_yakyakistan = {
+		movement_cost = 1.00
+		defence = 2
+		color = { 140 150 130 }
+		farm_rgo_eff = 0.10
+		farm_rgo_size = -0.25
+		mine_rgo_eff = 0.10
+		mine_rgo_size = -0.25
+		supply_limit = 10.00
+	}
+	
+	urban_griffonstone = {
+		movement_cost = 1.00
+		defence = 2
+		color = { 140 150 130 }
+		farm_rgo_eff = 0.10
+		farm_rgo_size = -0.25
+		mine_rgo_eff = 0.10
+		mine_rgo_size = -0.25
+		supply_limit = 10.00
+	}
+	
+	urban_manehattan = {
+		movement_cost = 1.00
+		defence = 2
+		color = { 140 150 130 }
+		farm_rgo_eff = 0.10
+		farm_rgo_size = -0.25
+		mine_rgo_eff = 0.10
+		mine_rgo_size = -0.25
+		supply_limit = 10.00
+	}
+	
+	urban_vesalipolis = {
 		movement_cost = 1.00
 		defence = 2
 		color = { 140 150 130 }

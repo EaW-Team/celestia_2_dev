@@ -4,4 +4,5 @@ controller = YAK
 add_core = YAK
 trade_goods = fruit
 life_rating = 35
+terrain = urban_yakyakistan
 

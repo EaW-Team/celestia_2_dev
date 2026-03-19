@@ -4,4 +4,5 @@ controller = BOI
 add_core = BOI
 trade_goods = iron
 life_rating = 35
+terrain = urban_griffonstone
 

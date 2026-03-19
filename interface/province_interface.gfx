@@ -342,6 +342,12 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_terrainimg_urban"
+		texturefile = "gfx\\interface\\terrain_urban.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_terrainimg_urban_canterlot"
 		texturefile = "gfx\\interface\\terrain_canterlot.tga"
 		norefcount = yes
@@ -350,6 +356,36 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_terrainimg_urban_crystal"
 		texturefile = "gfx\\interface\\terrain_crystal.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_farmlands_ponyville"
+		texturefile = "gfx\\interface\\terrain_ponyville.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_yakyakistan"
+		texturefile = "gfx\\interface\\terrain_yakyakistan.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_griffonstone"
+		texturefile = "gfx\\interface\\terrain_griffonstone.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_manehattan"
+		texturefile = "gfx\\interface\\terrain_manehattan.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_vesalipolis"
+		texturefile = "gfx\\interface\\terrain_vesalipolis.tga"
 		norefcount = yes
 	}
 	
