@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = KRE
+controller = KRE
+add_core = KRE
 trade_goods = iron
 life_rating = 35
 

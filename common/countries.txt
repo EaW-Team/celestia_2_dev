@@ -173,7 +173,15 @@ TAN 		= "countries/TAN.txt"
 TCC		= "countries/TCC.txt"
 HAF		= "countries/HAF.txt"
 LOT		= "countries/LOT.txt"
-
+IDT		= "countries/IDT.txt"
+THU		= "countries/THU.txt"
+WDB		= "countries/WDB.txt"
+KRE		= "countries/KRE.txt"
+RGD		= "countries/RGD.txt"
+HGS		= "countries/HGS.txt"
+MLS		= "countries/MLS.txt"
+TMS		= "countries/TMS.txt"
+EYE		= "countries/EYE.txt"
 
 ##HoD Dominions
 dynamic_tags  = no # any tags after this is considered dynamic dominions

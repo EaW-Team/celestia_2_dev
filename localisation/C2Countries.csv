@@ -140,8 +140,8 @@ LNS_ADJ;Longswordian;;x
 HLQ;Ordensstaat Hellquill;;x
 HLQ_ADJ;Hellquillian;;x
 DMT;Diamond Mountain;;x
-DMT_ADJ;Diamond Dog;;x
-BAK;Bakaran;;x
+DMT_ADJ;Diamond Mountain;;x
+BAK;Bakara;;x
 BAK_ADJ;Bakaran;;x
 FIR;Firtree;;x
 FIR_ADJ;Firtree;;x
@@ -321,3 +321,21 @@ UMB;Umbasi;;x
 UMB_ADJ;Umbasi;;x
 GOR;Gorak;;x
 GOR_ADJ;Gorakian;;x
+IDT;Ice Dragon Tribe;;x
+IDT_ADJ;Ice Dragon;;x
+THU;Thunder Cliffs;;x
+THU_ADJ;Thunderer;;x
+WDB;Windborn;;x
+WDB_ADJ;Windborn;;x
+KRE;Karen;;x
+KRE_ADJ;Karenian;;x
+RGD;Rainguard;;x
+RGD_ADJ;Rainguard;;x
+HGS;Highstorm;;x
+HGS_ADJ;Highstormer;;x
+MLS;Maelstrom Coast;;x
+MLS_ADJ;Maelstrom;;x
+TMS;Tempest Shore;;x
+TMS_ADJ;Tempest;;x
+EYE;Eye of the Storm;;x
+EYE_ADJ;Eye of the Storm;;x
