@@ -2,7 +2,7 @@
 owner = EQS
 controller = EQS
 add_core = EQS
-trade_goods = timber
+trade_goods = fruit
 life_rating = 35
 terrain = farmlands_ponyville
 

@@ -1,5 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-
+owner = IDT
+controller = IDT
+add_core = IDT
 trade_goods = grain
 life_rating = 35
 
