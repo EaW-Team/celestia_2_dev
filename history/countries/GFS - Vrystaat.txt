@@ -27,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = GHO_exclusive
+ruling_party = generic_conservative
 upper_house = { # inherit
 	fascist = 0
 	liberal = 25
