@@ -1,4 +1,4 @@
-capital = 1746
+capital = 2719
 primary_culture = polar_bears
 religion = placeholder
 government = absolute_monarchy

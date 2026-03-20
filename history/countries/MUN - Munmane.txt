@@ -1,4 +1,4 @@
-capital = 1388
+capital = 1988
 primary_culture = placeholder
 religion = placeholder
 government = absolute_monarchy

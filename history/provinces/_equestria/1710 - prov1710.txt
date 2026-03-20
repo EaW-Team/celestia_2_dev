@@ -1,7 +1,5 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = WAT
-controller = WAT
-add_core = WAT
+
 trade_goods = iron
 life_rating = 35
 
