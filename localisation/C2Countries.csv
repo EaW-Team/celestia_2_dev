@@ -51,8 +51,8 @@ WNG;Kingdom of Wingbardy;;x
 WNG_ADJ;Wingbardian;;x
 CLD;Duchy of Cloudbury;;x
 CLD_ADJ;Cloudburian;;x
-FRM;Francistria;;x
-FRM_ADJ;Francistrian;;x
+FRN;Francistria;;x
+FRN_ADJ;Francistrian;;x
 FAL;Falcorian Queendom;;x
 FAL_ADJ;Falcorian;;x
 GRI;Griffonian Empire;;x
@@ -67,8 +67,8 @@ FLO;Flowena;;x
 FLO_ADJ;Flowenan;;x
 KLO;Kloberg;;x
 KLO_ADJ;Kloberger;;x
-ARG;Arantiga;;x
-ARG_ADJ;Arantigan;;x
+ARN;Arantiga;;x
+ARN_ADJ;Arantigan;;x
 ARC;Arcturian Order;;x
 ARC_ADJ;Arcturian;;x
 LAK;Rumare;;x
@@ -179,8 +179,8 @@ SDL;Saddle Arabia;;x
 SDL_ADJ;Saddle Arabian;;x
 MAZ;Imperial Mazwi;;x
 MAZ_ADJ;Mazwian;;x
-AST;Asstyria;;x
-AST_ADJ;Asstyrian;;x
+ASY;Asstyria;;x
+ASY_ADJ;Asstyrian;;x
 SUM;Anseruk;;x
 SUM_ADJ;Anserukian;;x
 ABY;Abyssinia;;x
@@ -203,8 +203,8 @@ WAR;Warzena;;x
 WAR_ADJ;Warzenan;;x
 ZUM;Zumidia;;x
 ZUM_ADJ;Zumidian;;x
-YEM;Yemane;;x
-YEM_ADJ;Yemanei;;x
+YMN;Yemane;;x
+YMN_ADJ;Yemanei;;x
 ZEL;Gelon-Zornu;;x
 ZEL_ADJ;Gelon-Zornu;;x
 HYE;Queendom of Hyenia;;x
