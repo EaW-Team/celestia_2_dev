@@ -545,7 +545,7 @@ deer = {
 	}
 }
 
-buffalo = {
+buffalos = {
 	leader = european
 	unit = Generic
 	buffalo = {						
