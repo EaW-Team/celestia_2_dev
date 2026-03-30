@@ -1,0 +1,3 @@
+#Follow the following format for every entry: culturename;localisation;;;;;;;;;;x DO NOT LEAVE ANY NEWLINES, EVER. ALL LOCALISATION FILES MUST BE ANSI FORMAT OR IT BREAKS SPECIAL CHARACTERS.
+pony;Pony Race;;;;;;;;;;x
+equestrian_pony;Equestrian Pony;;;;;;;;;;x
