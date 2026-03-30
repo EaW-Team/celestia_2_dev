@@ -1,0 +1,28 @@
+#Follow the following format for every entry: culturename;localisation;;;;;;;;;;x DO NOT LEAVE ANY NEWLINES, EVER. ALL LOCALISATION FILES MUST BE ANSI FORMAT OR IT BREAKS SPECIAL CHARACTERS.
+pony;Pony;;;;;;;;;;x
+equestrian_pony;Equestrian Pony;;;;;;;;;;x
+changeling;Changeling;;;;;;;;;;x
+yak;Yak;;;;;;;;;;x
+zebra;Zebra;;;;;;;;;;x
+deer;Deer;;;;;;;;;;x
+olenian_deer;Olenian Deer;;;;;;;;;;x
+buffalos;Buffalo;;;;;;;;;;x
+griffon;Griffon;;;;;;;;;;x
+kirin;Kirin;;;;;;;;;;x
+bears;Polar Bear;;;;;;;;;;x
+penguins;Penguin;;;;;;;;;;x
+dragons;Dragon;;;;;;;;;;x
+diamond_dogs;Diamond Dog;;;;;;;;;;x
+minotaurs;Minotaur;;;;;;;;;;x
+undeads;Undead;;;;;;;;;;x
+harpies;Harpy;;;;;;;;;;x
+hippogriffs;Hippogriff;;;;;;;;;;x
+abyssinian_cats;Abyssinian Cat;;;;;;;;;;x
+donkeys;Donkey;;;;;;;;;;x
+yetis;Yeti;;;;;;;;;;x
+hyenas;Hyena;;;;;;;;;;x
+giraffes;Giraffe;;;;;;;;;;x
+gargoyles;Gargoyle;;;;;;;;;;x
+centaurs;Centaur;;;;;;;;;;x
+camels;Camel;;;;;;;;;;x
+llamas;Llama;;;;;;;;;;x

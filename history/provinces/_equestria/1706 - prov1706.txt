@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = ARG
-controller = ARG
-add_core = ARG
+owner = ARN
+controller = ARN
+add_core = ARN
 trade_goods = wool
 life_rating = 35
 

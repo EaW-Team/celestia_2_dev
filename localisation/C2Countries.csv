@@ -4,35 +4,35 @@ OLE_ADJ;Olenian;;x
 EQS;Equestria;;x
 EQS_ADJ;Equestrian;;x   
 YAK;Yakyakistan;;x
-YAK_ADJ;Yak;;x
+YAK_ADJ;Yakyakistani;;x
 BUF;Buffalo Chiefdom;;x
 BUF_ADJ;Buffalo;;x
 TRS;Trotsas;;x
-TRS_ADJ;Trotsas;;x
+TRS_ADJ;Trotsan;;x
 PLB;Polar Bear Communities;;x
 PLB;Polar Bear;;x
 PNG;Kingdom of Pingland;;x
 PNG_ADJ;Penguin;;x
 GRF;Nova Griffonia;;x
-GRF_ADJ;Nova Griffin;;x
+GRF_ADJ;Nova Griffonian;;x
 SEV;Tsardom of Severyana;;x
-SEV_ADJ;Severyana;;x
+SEV_ADJ;Severyanian;;x
 EQC;New Mareland;;x
-EQC;Marelander;;x
+EQC;New Marelander;;x
 VES;Vesalipolis;;x
 VES_ADJ;Vesalipolis;;x
 VRA;Vraks;;x
-VRA_ADJ;Vraks;;x
+VRA_ADJ;Vraksian;;x
 DIT;Ditrysium;;x
 DIT_ADJ;Ditrysium;;x
 SOR;Soryth;;x
-SOR_ADJ;Soryth;;x
+SOR_ADJ;Sorythian;;x
 LYC;Lyctida;;x
-LYC_ADJ;Lyctida;;x
+LYC_ADJ;Lyctidan;;x
 ANT;Antax;;x
-ANT_ADJ;Antax;;x
+ANT_ADJ;Antaxian;;x
 ASS;Assyna;;x
-ASS_ADJ;Assyna;;x
+ASS_ADJ;Assynan;;x
 CRU;Crucis;;x
 CRU_ADJ;Crucis;;x
 VLI;Volistad;;x
@@ -51,30 +51,30 @@ WNG;Kingdom of Wingbardy;;x
 WNG_ADJ;Wingbardian;;x
 CLD;Duchy of Cloudbury;;x
 CLD_ADJ;Cloudburian;;x
-FRM;Francistria;;x
-FRM_ADJ;Francistrian;;x
+FRN;Francistria;;x
+FRN_ADJ;Francistrian;;x
 FAL;Falcorian Queendom;;x
 FAL_ADJ;Falcorian;;x
 GRI;Griffonian Empire;;x
-GRI_ADJ;Griffon;;x
+GRI_ADJ;Griffonian;;x
 AQU;Kingdom of Aquileia;;x
 AQU_ADJ;Aquileian;;x
 TAL;Talouse;;x
 TAL_ADJ;Talousian;;x
 RMA;Romau;;x
-RMA_ADJ;Romau;;x
+RMA_ADJ;Romauan;;x
 FLO;Flowena;;x
 FLO_ADJ;Flowenan;;x
 KLO;Kloberg;;x
-KLO_ADJ;Kloberg;;x
-ARG;Arantiga;;x
-ARG_ADJ;Arantigan;;x
+KLO_ADJ;Kloberger;;x
+ARN;Arantiga;;x
+ARN_ADJ;Arantigan;;x
 ARC;Arcturian Order;;x
 ARC_ADJ;Arcturian;;x
 LAK;Rumare;;x
-LAK_ADJ;Rumare;;x
+LAK_ADJ;Rumarean;;x
 VED;Kingdom of Vedina;;x
-VED_ADJ;Vedina;;x
+VED_ADJ;Vedinan;;x
 VER;Verenia;;x
 VER_ADJ;Verenian;;x
 FEA;Grand Duchy of Feathisia;;x
@@ -82,7 +82,7 @@ FEA_ADJ;Feathisian;;x
 BOI;Griffonstone;;x
 BOI_ADJ;Griffonstonian;;x
 SKY;Skyfall;;x
-SKY;Skyfall;;x
+SKY_ADJ;Skyfallian;;x
 GTO;Griffton;;x
 GTO_ADJ;Griffton;;x
 VLE;Vleugeland;;x
@@ -90,21 +90,19 @@ VLE_ADJ;Vleugelander;;x
 PYT;Greifenmarschen;;x
 PYT_ADJ;Greifenmarsian;;x
 TAR;Tarrin;;x
-TAR_ADJ;Tarrin;;x
+TAR_ADJ;Tarrinian;;x
 POM;Pomovarra;;x
-POM_ADJ;Pomouvareg;;x
+POM_ADJ;Pomovarran;;x
 GRW;Greifwald;;x
-GRW_ADJ;Greifwald;;x
+GRW_ADJ;Greifwalder;;x
 FEZ;Fezera;;x
-FEZ_ADJ;Fezera;;x
+FEZ_ADJ;Fezzerian;;x
 DED;The Dread League;;x
 DED_ADJ;Necromancer;;x
 NTR;Northern Tribes;;x
-NTR_ADJ;Snowpony;;x
-RMA;Romau;;x
-RMA_ADJ;Romau;;x
+NTR_ADJ;Northern;;x
 SCE;Parishes of Sicameon;;x
-SCE_ADJ;Sicameon;;x
+SCE_ADJ;Sicameonese;;x
 BLH;Blackhollow;;x
 BLH_ADJ;Blackhollower;;x
 CYA;Cyanolisia;;x
@@ -146,13 +144,13 @@ BAK_ADJ;Bakaran;;x
 FIR;Firtree;;x
 FIR_ADJ;Firtree;;x
 FBK;Farbrook;;x
-FBK_ADJ;Hillpony;;x
+FBK_ADJ;Farbrookian;;x
 WAT;Watertowns;;x
 WAT_ADJ;Watertowner;;x
 NCH;Greneclyf;;x
 NCH_ADJ;Greneclyfian;;x
 KIV;Kivessin;;x
-KIV_ADJ;Kivessin;;x
+KIV_ADJ;Kivessinian;;x
 SYD;Sydia;;x
 SYD_ADJ;Sydian;;x
 DRG;Dragon Lands;;x
@@ -160,11 +158,11 @@ DRG_ADJ;Draconian;;x
 OPN;Order of Opinicus;;x
 OPN_ADJ;Opinicus;;x
 GSG;Gryphus Südkontinent-Gesellschaft;;x
-GSG_ADJ;Gesellschaft;;x
+GSG_ADJ;GSG;;x
 GR1;Viartorre;;x
-GR1_ADJ;Viartorre;;x
+GR1_ADJ;Viartorrean;;x
 GR2;Pythagorea;;x
-GR2_ADJ;Pythagorea;;x
+GR2_ADJ;Pythagorean;;x
 GR3;Colegio;;x
 GR3_ADJ;Colegio;;x
 ROS;Rosensverd;;x
@@ -181,10 +179,10 @@ SDL;Saddle Arabia;;x
 SDL_ADJ;Saddle Arabian;;x
 MAZ;Imperial Mazwi;;x
 MAZ_ADJ;Mazwian;;x
-AUS;Asstyria;;x
-AUS_ADJ;Asstyrian;;x
+ASY;Asstyria;;x
+ASY_ADJ;Asstyrian;;x
 SUM;Anseruk;;x
-SUM_ADJ;Anseruk;;x
+SUM_ADJ;Anserukian;;x
 ABY;Abyssinia;;x
 ABY_ADJ;Abyssinian;;x
 MAG;Maregypt;;x
@@ -196,7 +194,7 @@ MTO_ADJ;Maretonian;;x
 AES;Aestlonia;;x
 AES_ADJ;Aestlonian;;x
 OSQ;Osqat;;x
-OSQ_ADJ;Osqat;;x
+OSQ_ADJ;Osqatian;;x
 HMR;Haymar;;x
 HMR_ADJ;Haymirite;;x
 MAR;Maretania;;x
@@ -205,14 +203,14 @@ WAR;Warzena;;x
 WAR_ADJ;Warzenan;;x
 ZUM;Zumidia;;x
 ZUM_ADJ;Zumidian;;x
-YEM;Yemane;;x
-YEM_ADJ;Yemanian;;x
+YMN;Yemane;;x
+YMN_ADJ;Yemanei;;x
 ZEL;Gelon-Zornu;;x
-ZEL_ADJ;Zornu;;x
+ZEL_ADJ;Gelon-Zornu;;x
 HYE;Queendom of Hyenia;;x
-HYE_ADJ;Hyena;;x
+HYE_ADJ;Hyenian;;x
 CEN;Senturya;;x
-CEN_ADJ;Centuar;;x
+CEN_ADJ;Centaur;;x
 GAR;Gargiloya;;x
 GAR_ADJ;Gargoyle;;x
 TWI;Twizanyika;;x
@@ -224,17 +222,17 @@ ROA_ADJ;Roaman;;x
 TSV;Tzhimane Confederacy;;x
 TSV_ADJ;Tzhimane;;x
 GFS;Imba-Zaru;;x
-GFS_ADJ;Imba-Zaru;;x
+GFS_ADJ;Imba-Zarunite;;x
 ZBL;Zeblu;;x
-ZBL_ADJ;Zeblu;;x
+ZBL_ADJ;Zebluan;;x
 ZOO;Kingdom of Zongo;;x
-ZOO_ADJ;Zongo;;x
+ZOO_ADJ;Zongolese;;x
 TAI;Tanaigha;;x
 TAI_ADJ;Tanaighan;;x
 MEL;Melahaka;;x
 MEL_ADJ;Melahakan;;x
 MQA;Sambovato;;x
-MQA_ADJ;Sambovato;;x
+MQA_ADJ;Sambovatan;;x
 IST;Maglibing;;x
 IST_ADJ;Maglibingian;;x
 DEL;Talarayi;;x
@@ -246,21 +244,21 @@ HIP_ADJ;Hippogriff;;x
 CLT;Colthage;;x
 CLT_ADJ;Colthaginian;;x
 QUA;Quaggatai;;x
-QUA_ADJ;Quagga;;x
+QUA_ADJ;Quaggan;;x
 BKH;Buckhara;;x
 BKH_ADJ;Buckharan;;x
 MAE;Manedalusia;;x
 MAE_ADJ;Manedalusian;;x
 HRV;Uusi Hirvimaa;;x
 HRV_ADJ;Hirvimaaian;;x
-CTL;Chital Yarldom;;x
+CTL;Chital;;x
 CTL_ADJ;Chitali;;x
 SAM;Sambar;;x
 SAM_ADJ;Sambari;;x
 KIR;Kiria;;;x
 KIR_ADJ;Kirian;;x
 GAZ;Taungpau;;x
-GAZ_ADJ;Taungpau;;x
+GAZ_ADJ;Taungpauan;;x
 LMB;Llambet;;x
 LMB_ADJ;Llambetan;;x
 KLG;Klugetown;;x
@@ -274,21 +272,21 @@ IDO_ADJ;Nagudawian;;x
 KXN;Lan Kir;;x
 KXN_ADJ;Lan Kir;;x
 KHM;Khamrin;;x
-KHM_ADJ;Khamrin;;x
+KHM_ADJ;Khamrini;;x
 BLO;Blossom;;;x
-BLO_ADJ;Senkinese;;x
+BLO_ADJ;Blossom;;x
 COG;Cogon;;x
-COG_ADJ;Senkinese;;x
+COG_ADJ;Cogonese;;x
 TAN;Tannin;;x
-TAN_ADJ;Senkinese;;x
+TAN_ADJ;Tannin;;x
 TCC;Tacca;;x
-TCC_ADJ;Senkinese;;x
+TCC_ADJ;Taccan;;x
 HAF;Hai Font;;x
-HAF_ADJ;Senkinese;;x
+HAF_ADJ;Hai Font;;x
 FUR;Fureshapur;;x
 FUR_ADJ;Fureshapurian;;x
 DLH;Doelhi;;x
-DLH_ADJ;Doelhi;;x
+DLH_ADJ;Doelhian;;x
 DER;Deerwar;;x
 DER_ADJ;Deerwari;;x
 HAR;Hart;;x
@@ -298,13 +296,13 @@ ALH_ADJ;Antlahori;;x
 STK;Stagataka;;x
 STK_ADJ;Stagatakan;;x
 KA1;Jamirids;;x
-KA1_ADJ;Jamiri;;x
+KA1_ADJ;Jamirid;;x
 KA2;Sayyarids;;x
-KA2_ADJ;Sayyari;;x
+KA2_ADJ;Sayyarid;;x
 KA3;Qazmani;;x
 KA3_ADJ;Qazmani;;x
 KA4;Karkhaemenids;;x
-KA4_ADJ;Karkhaemeni;;x
+KA4_ADJ;Karkhaemenid;;x
 KA5;Jogatarri;;x
 KA5_ADJ;Jogatarri;;x
 KA6;Buckluchi;;x
