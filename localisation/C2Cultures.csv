@@ -1,28 +1,129 @@
 #Follow the following format for every entry: culturename;localisation;;;;;;;;;;x DO NOT LEAVE ANY NEWLINES, EVER. ALL LOCALISATION FILES MUST BE ANSI FORMAT OR IT BREAKS SPECIAL CHARACTERS.
 pony;Pony;;;;;;;;;;x
 equestrian_pony;Equestrian Pony;;;;;;;;;;x
+marelander_pony;New Mareland Pony;;;;;;;;;;x
+crystal_pony;Crystal Pony;;;;;;;;;;x
+severyanian_pony;Severyanian Pony;;;;;;;;;;x
+trotsan_pony;Trotsan Pony;;;;;;;;;;x
+aztlan_pony;Aztlan Pony;;;;;;;;;;x
+caballo_pony;Caballo Pony;;;;;;;;;;x
+north_pony;Northpony;;;;;;;;;;x
+river_pony;Riverpony;;;;;;;;;;x
+hill_pony;Hillpony;;;;;;;;;;x
+wittenlandic_pony;Wittenlandic Pony;;;;;;;;;;x
+ponaidh_pony;Ponaidh Pony;;;;;;;;;;x
+nimbusian_pony;Nimbusian Pony;;;;;;;;;;x
+aquileian_pony;Aquileian Pony;;;;;;;;;;x
+vartai_pony;Vartai Pony;;;;;;;;;;x
+maregyptian_pony;Maregyptian Pony;;;;;;;;;;x
+tobuckian_pony;Tobuckian Pony;;;;;;;;;;x
+manedalusian_pony;Manedalusian Pony;;;;;;;;;;x
+hestrayan_pony;Hestrayan Pony;;;;;;;;;;x
+north_thestral;Northern Batpony;;;;;;;;;;x
+aztlan_thestral;Aztlan Batpony;;;;;;;;;;x
+legion_thestral;Chiropterran Pony;;;;;;;;;;x
 changeling;Changeling;;;;;;;;;;x
+boreal_changeling;Boreal Changeling;;;;;;;;;;x
+brackish_changeling;Brackish Changeling;;;;;;;;;;x
+greneclyf_changeling;Greneclyf Changeling;;;;;;;;;;x
 yak;Yak;;;;;;;;;;x
+western_yak;Western Yak;;;;;;;;;;x
+eastern_yak;Eastern Yak;;;;;;;;;;x
 zebra;Zebra;;;;;;;;;;x
+kasan_zebra;Kasan Zebra;;;;;;;;;;x
+zonician_zebra;Zonician Zebra;;;;;;;;;;x
+imazeeb_zebra;Imazeeb Zebra;;;;;;;;;;x
+quaggan_zebra;Quaggan Zebra;;;;;;;;;;x
+zebharan_zebra;Zwadai Zebra;;;;;;;;;;x
+alwani_zebra;Zubian Zebra;;;;;;;;;;x
+zarhay_zebra;Zar-Hay Zebra;;;;;;;;;;x
+macigenan_zebra;Macigenan Zebra;;;;;;;;;;x
+mazwian_zebra;Mazwian Zebra;;;;;;;;;;x
+mozzi_zebra;Mozzian Zebra;;;;;;;;;;x
+ugabi_zebra;Ugabian Zebra;;;;;;;;;;x
+aorandan_zebra;Aorandan Zebra;;;;;;;;;;x
+zornu_zebra;Zornuan Zebra;;;;;;;;;;x
+hayzeb_zebra;Hayzeb Zebra;;;;;;;;;;x
+zwahilean_zebra;Zwahilean Zebra;;;;;;;;;;x
+imba_zaru_zebra;Imba-Zaru Zebra;;;;;;;;;;x
+tzhimane_zebra;Tzhimanean Zebra;;;;;;;;;;x
+roaman_zebra;Roaman Zebra;;;;;;;;;;x
+zebluan_zebra;Zebluan Zebra;;;;;;;;;;x
+zongolese_zebra;Zongolese Zebra;;;;;;;;;;x
+talarayi_zebra;Talarayi Zebra;;;;;;;;;;x
+southeast_zebra;Lost Jungle Zebra;;;;;;;;;;x
 deer;Deer;;;;;;;;;;x
 olenian_deer;Olenian Deer;;;;;;;;;;x
+austurland_deer;Austurlandic Deer;;;;;;;;;;x
+hindo_olenian_deer;Hindo-Olenian Deer;;;;;;;;;;x
+hindian_deer;Hindian Deer;;;;;;;;;;x
 buffalos;Buffalo;;;;;;;;;;x
+buffalo;Buffalo;;;;;;;;;;x
 griffon;Griffon;;;;;;;;;;x
+herzlander_griffon;Herzlander Griffon;;;;;;;;;;x
+feathisian_griffon;Feathisian Griffon;;;;;;;;;;x
+nova_griffon;Nova Griffonian Griffon;;;;;;;;;;x
+vedinan_griffon;Vedinan Griffon;;;;;;;;;;x
+cloudburian_griffon;Cloudburian Griffon;;;;;;;;;;x
+arcturian_griffon;Arcturian Griffon;;;;;;;;;;x
+aquileian_griffon;Aquileian Griffon;;;;;;;;;;x
+greifwald_griffon;Greifwalder Griffon;;;;;;;;;;x
+pomovarran_griffon;Pomovarran Griffon;;;;;;;;;;x
+east_aquileian_griffon;Lointaineau Griffon;;;;;;;;;;x
+griffonstone_griffon;Griffonstonian Griffon;;;;;;;;;;x
+rumare_griffon;Rumarean Griffon;;;;;;;;;;x
+karthinian_griffon;Karthinian Griffon;;;;;;;;;;x
+sicameonese_griffon;Sicameonese Griffon;;;;;;;;;;x
+lushian_griffon;Lushian Griffon;;;;;;;;;;x
+prywhenian_griffon;Prywhenian Griffon;;;;;;;;;;x
+zaphzian_griffon;Zaphzian Griffon;;;;;;;;;;x
+gryphussian_griffon;Gryphussian Griffon;;;;;;;;;;x
+zebrican_griffon;Kompel Griffon;;;;;;;;;;x
 kirin;Kirin;;;;;;;;;;x
+kirian_kirin;Kirian Kirin;;;;;;;;;;x
+zaikirian_kirin;Zaikirian Kirin;;;;;;;;;;x
 bears;Polar Bear;;;;;;;;;;x
+polar_bears;Polar Bear;;;;;;;;;;x
 penguins;Penguin;;;;;;;;;;x
+penguin;Penguin;;;;;;;;;;x
 dragons;Dragon;;;;;;;;;;x
+fire_dragon;Fire Dragon;;;;;;;;;;x
+ice_dragon;Ice Dragon;;;;;;;;;;x
 diamond_dogs;Diamond Dog;;;;;;;;;;x
+diamond_dog;Diamond Dog;;;;;;;;;;x
 minotaurs;Minotaur;;;;;;;;;;x
+minotaur;Minotaur;;;;;;;;;;x
 undeads;Undead;;;;;;;;;;x
+undead;Undead;;;;;;;;;;x
 harpies;Harpy;;;;;;;;;;x
+macawian_harpy;Macawian Harpy;;;;;;;;;;x
+ornithian_harpy;Ornithian Harpy;;;;;;;;;;x
 hippogriffs;Hippogriff;;;;;;;;;;x
+hippogriffian;Hippogriff;;;;;;;;;;x
 abyssinian_cats;Abyssinian Cat;;;;;;;;;;x
+abyssinian_cat;Abyssinian Cat;;;;;;;;;;x
 donkeys;Donkey;;;;;;;;;;x
+asstyrian_donkey;Asstyrian Donkey;;;;;;;;;;x
+anserukian_donkey;Anserukian Donkey;;;;;;;;;;x
+horses;Horse;;;;;;;;;;x
+arabian_horse;Arabian Horse;;;;;;;;;;x
+yemane_horse;Yemanei Horse;;;;;;;;;;x
+riseian_horse;Riseian Horse;;;;;;;;;;x
+reemite_horse;Re'emite Horse;;;;;;;;;;x
+karkad_horse;Karkadannistani Horse;;;;;;;;;;x
 yetis;Yeti;;;;;;;;;;x
+yeti;Yeti;;;;;;;;;;x
 hyenas;Hyena;;;;;;;;;;x
+hyenian_hyena;Hyenian Hyena;;;;;;;;;;x
+chisimbi_hyena;Twizanyikan Hyena;;;;;;;;;;x
 giraffes;Giraffe;;;;;;;;;;x
+giraffe;Giraffe;;;;;;;;;;x
 gargoyles;Gargoyle;;;;;;;;;;x
+gargoyle;Gargoyle;;;;;;;;;;x
 centaurs;Centaur;;;;;;;;;;x
+centaur;Centaur;;;;;;;;;;x
 camels;Camel;;;;;;;;;;x
+camel;Camel;;;;;;;;;;x
 llamas;Llama;;;;;;;;;;x
+llama;Llama;;;;;;;;;;x
+alpaca;Alpaca;;;;;;;;;;x
