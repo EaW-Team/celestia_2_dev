@@ -4,4 +4,5 @@ controller = RMA
 add_core = RMA
 trade_goods = iron
 life_rating = 35
+terrain = urban
 

@@ -4,4 +4,5 @@ controller = EQS
 add_core = EQS
 trade_goods = coal
 life_rating = 35
+terrain = urban
 

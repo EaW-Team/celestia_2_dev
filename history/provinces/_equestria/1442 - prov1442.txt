@@ -4,4 +4,5 @@ controller = FLO
 add_core = FLO
 trade_goods = timber
 life_rating = 35
+terrain = urban
 

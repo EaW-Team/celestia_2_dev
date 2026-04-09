@@ -4,4 +4,5 @@ controller = GRI
 add_core = FEA
 trade_goods = grain
 life_rating = 35
+terrain = urban
 

@@ -4,4 +4,5 @@ controller = SKY
 add_core = SKY
 trade_goods = coal
 life_rating = 35
+terrain = urban
 
