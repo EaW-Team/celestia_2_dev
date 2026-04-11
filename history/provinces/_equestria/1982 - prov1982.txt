@@ -1,8 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = BOI
-controller = BOI
-add_core = BOI
-add_core = BLH
+owner = CYA
+controller = CYA
+add_core = CYA
 trade_goods = coal
 life_rating = 35
 
