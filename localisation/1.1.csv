@@ -46,7 +46,6 @@ WARGOAL_OTHER_ACCEPT_SETUP;When a nation adds a wargoal in a war.;Si une nation 
 WARGOAL_THEY_ACCEPT_SETUP;When we add a wargoal against another nation.;Si nous ajoutons un objectif de guerre contre une autre nation.;Wenn wir ein Kriegsziel gegen eine andere Nation hinzufügen.;;Cuando añadimos un objetivo bélico contra otro país;;;;;;;;x;
 WARGOAL_WE_ACCEPT_SETUP;When a nation adds a wargoal against us..;Si une nation ajoute un objectif de guerre contre nous.;Wenn eine Nation ein Kriegsziel gegen uns hinzufügt.;;Cuando otro país añade un objetivo bélico contra nosotros;;;;;;;;x;
 status_quo_setup;All we ask is to be left alone;Nous demandons juste à ce qu'on nous laisse tranquilles.;Wir wollen nur in Ruhe gelassen werden.;;Lo único que pedimos es que nos dejen en paz;;;;;;;;x;
-PROV3041;Argentine Rise;Soulèvement de l'Argentine;Argentinisches Seegebirge;;Falla de Argentina;;;;;;;;;x
 TUR_819;West Macedonia;Macédoine de l'Ouest;Westmazedonien;;Macedonia Occidental;;;;;;;;;x
 TUR_806;North Macedonia;Macédoine du Nord;Nordmazedonien;;Macedonia Septentrional;;;;;;;;;x
 GUNBOAT_OTHER_ACCEPT_LOG;$ACTOR$ is using gunboats to force $RECIPIENT$ to pay their debt!;$ACTOR$ utilise des canonnières pour obliger $RECIPIENT$ à rembourser sa dette !;$ACTOR$ setzt Kanonenbootpolitik ein, um $RECIPIENT$ zur Rückzahlung der Schulden zu zwingen!;;¡$ACTOR$ está usando sus cañoneras para obligar a $RECIPIENT$ a pagar sus deudas!;;;;;;;;;x
