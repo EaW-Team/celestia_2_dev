@@ -1,7 +1,7 @@
 #Made with Vic2 Map Maker Tool by Dotdot :) 
-owner = MAG
-controller = MAG
-add_core = MAG
+owner = MAZ
+controller = MAZ
+add_core = MAZ
 trade_goods = iron
 life_rating = 35
 
