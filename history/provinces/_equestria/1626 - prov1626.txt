@@ -2,6 +2,6 @@
 owner = ROS
 controller = ROS
 add_core = ROS
-trade_goods = coal
+trade_goods = fish
 life_rating = 35
 

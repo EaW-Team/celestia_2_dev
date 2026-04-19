@@ -2,6 +2,6 @@
 owner = VLS
 controller = VLS
 add_core = VLS
-trade_goods = iron
+trade_goods = wool
 life_rating = 35
 

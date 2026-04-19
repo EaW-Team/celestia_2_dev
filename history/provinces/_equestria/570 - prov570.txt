@@ -2,6 +2,6 @@
 owner = WES
 controller = WES
 add_core = WES
-trade_goods = fish
+trade_goods = timber
 life_rating = 35
 

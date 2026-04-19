@@ -2,6 +2,6 @@
 owner = VES
 controller = VES
 add_core = VES
-trade_goods = iron
+trade_goods = timber
 life_rating = 35
 

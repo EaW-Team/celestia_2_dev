@@ -2,6 +2,6 @@
 owner = VRA
 controller = VRA
 add_core = VRA
-trade_goods = grain
+trade_goods = timber
 life_rating = 35
 

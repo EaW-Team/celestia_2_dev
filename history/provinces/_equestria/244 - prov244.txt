@@ -2,6 +2,6 @@
 owner = CRU
 controller = CRU
 add_core = CRU
-trade_goods = timber
+trade_goods = silk
 life_rating = 35
 

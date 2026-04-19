@@ -2,6 +2,6 @@
 owner = SVA
 controller = SVA
 add_core = SVA
-trade_goods = grain
+trade_goods = timber
 life_rating = 35
 
