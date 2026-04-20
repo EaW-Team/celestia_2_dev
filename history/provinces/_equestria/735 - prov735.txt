@@ -3,6 +3,6 @@ owner = GRF
 controller = GRF
 add_core = GRF
 add_core = YAK
-trade_goods = iron
+trade_goods = grain
 life_rating = 35
 

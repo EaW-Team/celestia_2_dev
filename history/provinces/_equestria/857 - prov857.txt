@@ -2,6 +2,6 @@
 owner = SEV
 controller = SEV
 add_core = SEV
-trade_goods = timber
+trade_goods = fish
 life_rating = 35
 

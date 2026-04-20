@@ -2,6 +2,6 @@
 owner = GRF
 controller = GRF
 add_core = GRF
-trade_goods = cattle
+trade_goods = fish
 life_rating = 35
 

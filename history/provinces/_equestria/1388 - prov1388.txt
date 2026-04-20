@@ -2,7 +2,7 @@
 owner = YAK
 controller = YAK
 add_core = YAK
-trade_goods = fruit
+trade_goods = iron
 life_rating = 35
 terrain = urban_yakyakistan
 

@@ -3,6 +3,6 @@ owner = GRF
 controller = GRF
 add_core = GRF
 add_core = PNG
-trade_goods = cattle
+trade_goods = wool
 life_rating = 35
 

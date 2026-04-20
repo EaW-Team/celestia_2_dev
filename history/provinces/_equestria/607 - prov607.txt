@@ -2,6 +2,6 @@
 owner = YAK
 controller = YAK
 add_core = YAK
-trade_goods = wool
+trade_goods = iron
 life_rating = 35
 
