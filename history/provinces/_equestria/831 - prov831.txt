@@ -2,6 +2,6 @@
 owner = DRG
 controller = DRG
 add_core = DRG
-trade_goods = timber
+trade_goods = sulphur
 life_rating = 35
 

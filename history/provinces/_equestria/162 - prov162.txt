@@ -2,6 +2,6 @@
 owner = HAY
 controller = HAY
 add_core = HAY
-trade_goods = cotton
+trade_goods = iron
 life_rating = 35
 

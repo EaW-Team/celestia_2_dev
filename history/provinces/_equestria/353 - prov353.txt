@@ -2,6 +2,6 @@
 owner = BUF
 controller = BUF
 add_core = BUF
-trade_goods = cotton
+trade_goods = grain
 life_rating = 35
 
