@@ -4,4 +4,5 @@ controller = DIT
 add_core = DIT
 trade_goods = fish
 life_rating = 35
+terrain = urban
 

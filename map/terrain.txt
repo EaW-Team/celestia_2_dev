@@ -325,6 +325,28 @@ categories =  {
 		mine_rgo_size = -0.25
 		supply_limit = 10.00
 	}
+	
+		urban_cloudsdale = {
+		movement_cost = 1.00
+		defence = 2
+		color = { 140 150 130 }
+		farm_rgo_eff = 0.10
+		farm_rgo_size = -0.25
+		mine_rgo_eff = 0.10
+		mine_rgo_size = -0.25
+		supply_limit = 10.00
+	}
+	
+		urban_laspegasus = {
+		movement_cost = 1.00
+		defence = 2
+		color = { 140 150 130 }
+		farm_rgo_eff = 0.10
+		farm_rgo_size = -0.25
+		mine_rgo_eff = 0.10
+		mine_rgo_size = -0.25
+		supply_limit = 10.00
+	}
 
 }
 

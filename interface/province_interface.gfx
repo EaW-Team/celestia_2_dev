@@ -384,6 +384,18 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "GFX_terrainimg_urban_cloudsdale"
+		texturefile = "gfx\\interface\\terrain_cloudsdale.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
+		name = "GFX_terrainimg_urban_laspegasus"
+		texturefile = "gfx\\interface\\terrain_laspegasus.tga"
+		norefcount = yes
+	}
+	
+	spriteType = {
 		name = "GFX_terrainimg_urban_vesalipolis"
 		texturefile = "gfx\\interface\\terrain_vesalipolis.tga"
 		norefcount = yes
