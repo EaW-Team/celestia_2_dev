@@ -2,6 +2,6 @@
 owner = ROS
 controller = ROS
 add_core = ROS
-trade_goods = wool
+trade_goods = precious_metal
 life_rating = 35
 
