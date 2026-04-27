@@ -182,6 +182,10 @@ HGS		= "countries/HGS.txt" #Highstorm
 MLS		= "countries/MLS.txt" #Maelstrom Coast
 TMS		= "countries/TMS.txt" #Tempest Shore
 EYE		= "countries/EYE.txt" #Eye of the Storm
+ARK		= "countries/ARK.txt" #Arksturi
+BRS		= "countries/BRS.txt" #Boreassali
+MRX		= "countries/MRX.txt" #Marixbur
+NIS		= "countries/NIS.txt" #Nissali
 
 ##HoD Dominions
 dynamic_tags  = no # any tags after this is considered dynamic dominions
