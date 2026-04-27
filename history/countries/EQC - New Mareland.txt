@@ -1,5 +1,5 @@
 capital = 1235
-primary_culture = polar_bears
+primary_culture = marelander_pony
 religion = placeholder
 government = absolute_monarchy
 prestige = 60

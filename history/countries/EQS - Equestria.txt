@@ -1,5 +1,5 @@
 capital = 1434
-primary_culture = polar_bears
+primary_culture = equestrian_pony
 religion = placeholder
 government = absolute_monarchy
 prestige = 60

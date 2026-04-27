@@ -1,5 +1,5 @@
 capital = 2526
-primary_culture = polar_bears
+primary_culture = kasan_zebra
 religion = placeholder
 government = absolute_monarchy
 plurality = 20

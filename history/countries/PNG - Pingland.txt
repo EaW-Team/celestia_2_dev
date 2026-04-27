@@ -1,5 +1,5 @@
 capital = 1737
-primary_culture = polar_bears
+primary_culture = penguin
 religion = placeholder
 government = absolute_monarchy
 plurality = 20

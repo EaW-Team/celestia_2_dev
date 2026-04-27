@@ -1,5 +1,5 @@
 capital = 1757
-primary_culture = polar_bears
+primary_culture = arcturian_griffon
 religion = placeholder
 government = absolute_monarchy
 plurality = 100

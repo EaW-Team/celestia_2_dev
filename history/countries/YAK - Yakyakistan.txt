@@ -1,5 +1,5 @@
 capital = 1388
-primary_culture = polar_bears
+primary_culture = western_yak
 religion = placeholder
 government = absolute_monarchy
 plurality = 20

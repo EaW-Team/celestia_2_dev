@@ -1,5 +1,5 @@
 capital = 1059
-primary_culture = polar_bears
+primary_culture = vedinan_griffon
 religion = placeholder
 government = absolute_monarchy
 plurality = 100

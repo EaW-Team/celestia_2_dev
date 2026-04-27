@@ -1,5 +1,5 @@
 capital = 1687
-primary_culture = polar_bears
+primary_culture = east_aquileian_griffon
 religion = placeholder
 government = absolute_monarchy
 plurality = 100

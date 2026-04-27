@@ -1,5 +1,5 @@
 capital = 2418
-primary_culture = polar_bears
+primary_culture = wittenlandic_pony
 religion = placeholder
 government = absolute_monarchy
 plurality = 100

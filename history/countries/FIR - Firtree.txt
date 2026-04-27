@@ -1,5 +1,5 @@
 capital = 1984
-primary_culture = polar_bears
+primary_culture = hill_pony
 religion = placeholder
 government = absolute_monarchy
 plurality = 100

@@ -1,5 +1,5 @@
 capital = 1342
-primary_culture = polar_bears
+primary_culture = talousian_griffon
 religion = placeholder
 government = absolute_monarchy
 plurality = 100

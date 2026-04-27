@@ -1,5 +1,5 @@
 capital = 2146
-primary_culture = polar_bears
+primary_culture = minotaur
 religion = placeholder
 government = absolute_monarchy
 plurality = 100

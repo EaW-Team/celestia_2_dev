@@ -1,5 +1,5 @@
 capital = 2251
-primary_culture = polar_bears
+primary_culture = greneclyf_changeling
 religion = placeholder
 government = absolute_monarchy
 plurality = 100
