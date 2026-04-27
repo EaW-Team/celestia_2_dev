@@ -2,6 +2,7 @@
 owner = ZBL
 controller = ZBL
 add_core = ZBL
+add_core = ZOO
 trade_goods = grain
 life_rating = 35
 
