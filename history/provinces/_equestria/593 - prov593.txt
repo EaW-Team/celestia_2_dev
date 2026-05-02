@@ -4,5 +4,3 @@ controller = YAK
 add_core = YAK
 trade_goods = cattle
 life_rating = 35
-terrain = urban
-

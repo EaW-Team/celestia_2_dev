@@ -4,4 +4,4 @@ controller = VLI
 add_core = VLI
 trade_goods = cattle
 life_rating = 35
-
+terrain = marsh
