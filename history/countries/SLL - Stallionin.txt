@@ -1,4 +1,4 @@
-capital = 258
+capital = 407
 primary_culture = trotsan_pony
 religion = placeholder
 government = absolute_monarchy
