@@ -4,4 +4,4 @@ controller = CTL
 add_core = CTL
 trade_goods = grain
 life_rating = 35
-
+terrain = urban

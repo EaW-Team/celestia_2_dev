@@ -2,7 +2,7 @@
 owner = CTL
 controller = CTL
 add_core = CTL
-
+terrain = urban
 trade_goods = tea
 life_rating = 35
 
