@@ -1,0 +1,23 @@
+#LOADING_MAP_SPRITES;Loading Map-Sprites...;;;;;;;;;;;;;;;;;;;;;;;;;;;#Monke mod has custom lines for these, we should too (at least when the mod is playable)#
+#LOADING_GUI_DEF;Loading GUI Definitions...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#LOADING_DATABASES;Loading Databases...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#LOADING_DATABASES2;Loading Databases II...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#INIT_MAP_LOGIC;Initialising Maplogic...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#CREATING_CHKSUM;Creating Checksum...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#LOADING_HISTORY;Loading History Files...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#LOADING_SOUNDS;Loading Sounds...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#PROC_FLAGS;Processing Flags...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#LOAD_FLAGS;Loading Flags...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#LOAD_GFX;Loading Graphics...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#CREATING_THE_WORLD;Creating the World...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#CREATING_TREES;Creating Trees...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#CREATING_BORDERS;Creating Borders...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#CREATING_RIVERS;Creating Rivers...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#MAP_PROPERLY_INIT;Map Properly Initialised...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#CREATING_PROVINCE;Creating Province;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#CREATING_TEXTS;Creating Scrolls....;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#LOAD_EVENTS;Loading Events...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#ADAPTING_HISTORY;Adapting History...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+#CALC_PATHS;Calculating paths...;;;;;;;;;;;;;;;;;;;;;;;;;;;
+promote_craftsmen;Encourage Craftsponies;;;;;;;;;;;;;;;;;;;;;;;;;;;
+craftsmen;Craftsponies;;;;;;;;;;;;;;;;;;;;;;;;;;;
