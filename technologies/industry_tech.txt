@@ -1,7 +1,7 @@
 #tech_power
 water_wheel_power = {
 	area = tech_power
-	year = 1836
+	year = 900
 	cost = 3600
 
 	activate_building = fabric_factory
@@ -46,7 +46,7 @@ water_wheel_power = {
 }
 practical_steam_engine = {
 	area = tech_power
-	year = 1836
+	year = 932
 	cost = 7200
 
 	mine_rgo_eff = 0.05
@@ -90,7 +90,7 @@ practical_steam_engine = {
 }
 high_n_low_pressure_steam_engines = {
 	area = tech_power
-	year = 1840
+	year = 940
 	cost = 10800
 
 	mine_rgo_eff = 0.1
@@ -134,7 +134,7 @@ high_n_low_pressure_steam_engines = {
 }
 steam_turbine = {
 	area = tech_power
-	year = 1860
+	year = 960
 	cost = 13400
 
 	mine_rgo_eff = 0.15
@@ -178,7 +178,7 @@ steam_turbine = {
 }
 combustion_engine = {
 	area = tech_power
-	year = 1880
+	year = 980
 	cost = 17000
 
 	mine_rgo_eff = 0.15
@@ -222,7 +222,7 @@ combustion_engine = {
 }
 electrical_power_generation = {
 	area = tech_power
-	year = 1890
+	year = 990
 	cost = 20600
 
 	mine_rgo_eff = 0.15
@@ -265,7 +265,7 @@ electrical_power_generation = {
 
 modern_power_generation = {
 	area = tech_power
-	year = 1920
+	year = 1020
 	cost = 21600
 
 	factory_cost = 0.05
@@ -311,7 +311,7 @@ modern_power_generation = {
 #mechanization
 publishing_industry = {
 	area = mechanization
-	year = 1836
+	year = 900
 	cost = 3600
 	mine_rgo_eff = 0.2
 	farm_rgo_eff = 0.2
@@ -348,7 +348,7 @@ publishing_industry = {
 }
 mechanical_production = {
 	area = mechanization
-	year = 1836
+	year = 932
 	cost = 7200
 
 	factory_throughput = 0.05 
@@ -398,7 +398,7 @@ mechanical_production = {
 }
 interchangeable_parts = {
 	area = mechanization
-	year = 1845
+	year = 945
 	cost = 10800
 
 	factory_throughput = 0.05
@@ -433,7 +433,7 @@ interchangeable_parts = {
 }
 semi_automatization = {
 	area = mechanization
-	year = 1855
+	year = 955
 	cost = 14400
 	factory_throughput = 0.05
 	factory_cost = 0.05 
@@ -467,7 +467,7 @@ semi_automatization = {
 }
 assembly_line = {
 	area = mechanization
-	year = 1875
+	year = 975
 	cost = 18000
 	factory_throughput = 0.1
 	factory_goods_output = {
@@ -496,7 +496,7 @@ assembly_line = {
 }
 shift_work = {
 	area = mechanization
-	year = 1900
+	year = 1000
 	cost = 20600
 
 	
@@ -526,7 +526,7 @@ shift_work = {
 
 mechanized_manufacturing = {
 	area = mechanization
-	year = 1920
+	year = 1020
 	cost = 21600
 
 	
@@ -561,7 +561,7 @@ mechanized_manufacturing = {
 #metallurgy
 mechanized_mining = {
 	area = metallurgy
-	year = 1836
+	year = 900
 	cost = 3600
 	activate_building = steel_factory 
 
@@ -617,7 +617,7 @@ mechanized_mining = {
 }
 clean_coal = {
 	area = metallurgy
-	year = 1836
+	year = 932
 	cost = 7200
 	
 	rgo_goods_throughput = {
@@ -679,7 +679,7 @@ clean_coal = {
 }
 cheap_iron = {
 	area = metallurgy
-	year = 1836
+	year = 936
 	cost = 10800
 	rgo_goods_throughput = {
 		coal = 0.1
@@ -731,7 +731,7 @@ cheap_iron = {
 }
 cheap_steel = {
 	area = metallurgy
-	year = 1850
+	year = 950
 	cost = 14400
 	rgo_goods_throughput = {
 		coal = 0.15
@@ -780,7 +780,7 @@ cheap_steel = {
 }
 advanced_metallurgy = {
 	area = metallurgy
-	year = 1870
+	year = 970
 	cost = 18000
 
 	rgo_goods_throughput = {
@@ -836,7 +836,7 @@ advanced_metallurgy = {
 }
 electric_furnace = {
 	area = metallurgy
-	year = 1900
+	year = 1000
 	cost = 21600
 
 	factory_goods_output = {
@@ -890,7 +890,7 @@ electric_furnace = {
 
 modern_metallurgy = {
 	area = metallurgy
-	year = 1920
+	year = 1020
 	cost = 21600
 
 	factory_goods_output = {
@@ -946,7 +946,7 @@ modern_metallurgy = {
 #tech_infrastructure
 experimental_railroad = {
 	area = tech_infrastructure
-	year = 1836
+	year = 900
 	cost = 3600
 
 	activate_building = railroad
@@ -975,7 +975,7 @@ experimental_railroad = {
 }
 early_railroad = {
 	area = tech_infrastructure
-	year = 1840
+	year = 940
 	cost = 7200
 
 	max_railroad = 1
@@ -1003,7 +1003,7 @@ early_railroad = {
 }
 iron_railroad = {
 	area = tech_infrastructure
-	year = 1850
+	year = 950
 	cost = 10800
 
 	max_railroad = 1 
@@ -1030,7 +1030,7 @@ iron_railroad = {
 }
 steel_railroad = {
 	area = tech_infrastructure
-	year = 1870
+	year = 970
 	cost = 14400
 
 	max_railroad = 1 
@@ -1057,7 +1057,7 @@ steel_railroad = {
 }
 integral_rail_system = {
 	area = tech_infrastructure
-	year = 1898
+	year = 998
 	cost = 18000
 
 	max_railroad = 1
@@ -1080,7 +1080,7 @@ integral_rail_system = {
 }
 limited_access_roads = {
 	area = tech_infrastructure
-	year = 1910
+	year = 1010
 	cost = 21600
 
 	max_railroad = 1
@@ -1103,7 +1103,7 @@ limited_access_roads = {
 
 modern_infrastructure = {
 	area = tech_infrastructure
-	year = 1919
+	year = 1019
 	cost = 21600
 
 	ai_chance = {
@@ -1127,7 +1127,7 @@ modern_infrastructure = {
 #chemistry_and_electricity
 basic_chemistry = {
 	area = chemistry_and_electricity
-	year = 1836
+	year = 900
 	cost = 3600
 
 	activate_building = fertilizer_factory
@@ -1148,7 +1148,7 @@ basic_chemistry = {
 }
 medicine = {
 	area = chemistry_and_electricity
-	year = 1836
+	year = 932
 	cost = 7200
 
 	supply_limit = 0.25
@@ -1172,7 +1172,7 @@ medicine = {
 }
 inorganic_chemistry = {
 	area = chemistry_and_electricity
-	year = 1850
+	year = 950
 	cost = 10800
 
 	supply_limit = 0.25
@@ -1208,7 +1208,7 @@ inorganic_chemistry = {
 }
 organic_chemistry = {
 	area = chemistry_and_electricity
-	year = 1870
+	year = 970
 	cost = 14400
 
 	supply_limit = 0.25
@@ -1240,7 +1240,7 @@ organic_chemistry = {
 }
 electricity = {
 	area = chemistry_and_electricity
-	year = 1880
+	year = 980
 	cost = 18000
 	
 	supply_limit = 0.50
@@ -1273,7 +1273,7 @@ electricity = {
 }
 synthetic_polymers = {
 	area = chemistry_and_electricity
-	year = 1910
+	year = 1010
 	cost = 21600
 
 	supply_limit = 0.25
@@ -1302,7 +1302,7 @@ synthetic_polymers = {
 
 modern_chemistry = {
 	area = chemistry_and_electricity
-	year = 1920
+	year = 1020
 	cost = 21600
 
 	supply_limit = 0.25

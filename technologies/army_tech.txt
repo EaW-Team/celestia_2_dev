@@ -1,7 +1,7 @@
 #army_doctrine
 post_napoleonic_thought = {
 	area = army_doctrine
-	year = 1836
+	year = 900
 	cost = 3600
 	unciv_military = yes
 
@@ -50,7 +50,7 @@ post_napoleonic_thought = {
 
 strategic_mobility = {
 	area = army_doctrine
-	year = 1836
+	year = 932
 	cost = 7200
 	unciv_military = yes
 	
@@ -106,7 +106,7 @@ strategic_mobility = {
 
 point_defense_system = {
 	area = army_doctrine
-	year = 1850
+	year = 950
 	cost = 10800
 	unciv_military = yes
 	engineer = {
@@ -161,7 +161,7 @@ point_defense_system = {
 }
 deep_defense_system = {
 	area = army_doctrine
-	year = 1870
+	year = 970
 	cost = 14400
 	unciv_military = yes
 	engineer = {
@@ -217,7 +217,7 @@ deep_defense_system = {
 
 trench_systems = {
 	area = army_doctrine
-	year = 1890
+	year = 990
 	cost = 18000
 	unciv_military = yes
 	army_base = {
@@ -273,7 +273,7 @@ trench_systems = {
 
 infiltration = {
 	area = army_doctrine
-	year = 1910
+	year = 1000
 	cost = 21600
 	unciv_military = yes
 	activate_unit = tank
@@ -321,7 +321,7 @@ infiltration = {
 }
 modern_army_doctrine = {
 	area = army_doctrine
-	year = 1920
+	year = 1020
 	cost = 21600
 	unciv_military = yes
 	
@@ -368,7 +368,7 @@ modern_army_doctrine = {
 #light_armament
 flintlock_rifles = {
 	area = light_armament
-	year = 1836
+	year = 900
 	cost = 3600
 	unciv_military = yes
 	
@@ -410,7 +410,7 @@ flintlock_rifles = {
 }
 muzzle_loaded_rifles = {
 	area = light_armament
-	year = 1836
+	year = 932
 	cost = 7200
 	unciv_military = yes
 	activate_unit = engineer
@@ -457,7 +457,7 @@ muzzle_loaded_rifles = {
 }
 breech_loaded_rifles = {
 	area = light_armament
-	year = 1850
+	year = 950
 	cost = 10800
 
 	unciv_military = yes
@@ -510,7 +510,7 @@ breech_loaded_rifles = {
 }
 machine_guns = {
 	area = light_armament
-	year = 1870
+	year = 970
 	cost = 14400
 	unciv_military = yes
 	
@@ -561,7 +561,7 @@ machine_guns = {
 }
 bolt_action_rifles = {
 	area = light_armament
-	year = 1900
+	year = 1000
 	cost = 18000
 	unciv_military = yes
 	unit = 1
@@ -604,7 +604,7 @@ bolt_action_rifles = {
 }
 storm_troopers = {
 	area = light_armament
-	year = 1910
+	year = 1010
 	cost = 21600
 	unciv_military = yes
 	unit = 2
@@ -646,7 +646,7 @@ storm_troopers = {
 }
 modern_divisional_structure = {
 	area = light_armament
-	year = 1920
+	year = 1020
 	cost = 21600
 	unciv_military = yes
 
@@ -691,7 +691,7 @@ modern_divisional_structure = {
 #heavy_armament
 bronze_muzzle_loaded_artillery = {
 	area = heavy_armament
-	year = 1836
+	year = 900
 	cost = 3600
 	unciv_military = yes
 	activate_unit = artillery
@@ -731,7 +731,7 @@ bronze_muzzle_loaded_artillery = {
 }
 iron_muzzle_loaded_artillery = {
 	area = heavy_armament
-	year = 1836
+	year = 932
 	cost = 7200
 	unciv_military = yes
 	artillery = {
@@ -782,7 +782,7 @@ iron_muzzle_loaded_artillery = {
 }
 iron_breech_loaded_artillery = {
 	area = heavy_armament
-	year = 1850
+	year = 950
 	cost = 10800
 	unciv_military = yes
 	artillery = {
@@ -833,7 +833,7 @@ iron_breech_loaded_artillery = {
 }
 steel_breech_loaded_artillery = {
 	area = heavy_armament
-	year = 1870
+	year = 970
 	cost = 14400
 	unciv_military = yes
 	artillery = {
@@ -884,7 +884,7 @@ steel_breech_loaded_artillery = {
 }
 indirect_artillery_fire = {
 	area = heavy_armament
-	year = 1900
+	year = 1000
 	cost = 18000
 	unciv_military = yes
 	artillery = {
@@ -935,7 +935,7 @@ indirect_artillery_fire = {
 }
 creeping_barrage = {
 	area = heavy_armament
-	year = 1910
+	year = 1010
 	cost = 21600
 	unciv_military = yes
 	artillery = {
@@ -986,7 +986,7 @@ creeping_barrage = {
 }
 heavy_armament_dunno = {
 	area = heavy_armament
-	year = 1920
+	year = 1020
 	cost = 21600
 	unciv_military = yes
 	artillery = {
@@ -1043,7 +1043,7 @@ heavy_armament_dunno = {
 #military_science
 military_staff_system = {
 	area = military_science
-	year = 1836
+	year = 900
 	cost = 3600
 	unciv_military = yes
 	
@@ -1089,7 +1089,7 @@ military_staff_system = {
 }
 military_plans = {
 	area = military_science
-	year = 1836
+	year = 932
 	cost = 7200
 	unciv_military = yes
 	
@@ -1135,7 +1135,7 @@ military_plans = {
 }
 military_statistics = {
 	area = military_science
-	year = 1850
+	year = 950
 	cost = 10800
 	unciv_military = yes
 	
@@ -1179,7 +1179,7 @@ military_statistics = {
 }
 military_logistics = {
 	area = military_science
-	year = 1870
+	year = 970
 	cost = 14400
 	unciv_military = yes
 	
@@ -1224,7 +1224,7 @@ military_logistics = {
 }
 military_directionism = {
 	area = military_science
-	year = 1900
+	year = 1000
 	cost = 18000
 	unciv_military = yes
 	
@@ -1271,7 +1271,7 @@ military_directionism = {
 }
 aeronautics = {
 	area = military_science
-	year = 1910
+	year = 1010
 	cost = 21600
 	activate_unit = plane
 	activate_building = aeroplane_factory
@@ -1318,7 +1318,7 @@ aeronautics = {
 
 combined_arms_experiments = {
 	area = military_science
-	year = 1920
+	year = 1020
 	cost = 21600
 
 	
@@ -1364,7 +1364,7 @@ combined_arms_experiments = {
 #army_leadership
 army_command_principle = {
 	area = army_leadership
-	year = 1836
+	year = 900
 	cost = 3600
 
 	morale = 0.25
@@ -1398,7 +1398,7 @@ army_command_principle = {
 }
 army_professionalism = {
 	area = army_leadership
-	year = 1836
+	year = 932
 	cost = 7200
 	unciv_military = yes
 	morale = 0.1
@@ -1452,7 +1452,7 @@ army_professionalism = {
 }
 army_decision_making = {
 	area = army_leadership
-	year = 1850
+	year = 950
 	cost = 10800
 	unciv_military = yes
 	morale = 0.2
@@ -1507,7 +1507,7 @@ army_decision_making = {
 }
 army_risk_management = {
 	area = army_leadership
-	year = 1870
+	year = 970
 	cost = 14400
 	unciv_military = yes
 	morale = 0.20
@@ -1562,7 +1562,7 @@ army_risk_management = {
 }
 army_nco_training = {
 	area = army_leadership
-	year = 1900
+	year = 1000
 	cost = 18000
 	unciv_military = yes
 	morale = 0.25
@@ -1618,7 +1618,7 @@ army_nco_training = {
 }
 great_war_experience = {
 	area = army_leadership
-	year = 1910
+	year = 1010
 	cost = 21600
 	unciv_military = yes
 	morale = 0.25
@@ -1665,7 +1665,7 @@ great_war_experience = {
 
 total_war_philosophy = {
 	area = army_leadership
-	year = 1920
+	year = 1020
 	cost = 21600
 	unciv_military = yes
 	morale = 0.25
