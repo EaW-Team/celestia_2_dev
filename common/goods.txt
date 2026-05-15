@@ -79,6 +79,10 @@ raw_material_goods = {
 		money = yes	
 		color = { 253 199 110 }
 	}
+	crystals = { 
+		cost = 3.00 
+		color = { 130 63 16 }
+	}
 }
 
 industrial_goods = {
@@ -230,4 +234,5 @@ consumer_goods = {
 		available_from_start = no
 		color = { 129 63 6 }
 	}
+
 }

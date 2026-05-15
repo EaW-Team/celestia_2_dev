@@ -1089,6 +1089,13 @@ iron_mine = {
 	mine = yes
 }
 
+crystal_mine = {
+	template = RGO_template_labourers
+	output_goods = crystals
+	value = 3
+	mine = yes
+}
+
 oil_rig = {
 	template = RGO_template_labourers
 	output_goods = oil 
