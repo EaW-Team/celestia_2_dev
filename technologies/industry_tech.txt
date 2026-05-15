@@ -574,6 +574,9 @@ mechanized_mining = {
 	rgo_goods_throughput = {
 		sulphur = 0.25
 	}
+	rgo_goods_throughput = {
+		crystals = 0.25
+	}
 	rgo_size = {
 		iron = 0.2
 	}
@@ -629,6 +632,9 @@ clean_coal = {
 	rgo_goods_throughput = {
 		sulphur = 0.1
 	}
+	rgo_goods_throughput = {
+		crystals = 0.2
+	}
 	rgo_size = {
 		sulphur = 0.2
 	}
@@ -637,6 +643,9 @@ clean_coal = {
 	}
 	rgo_size = {
 		iron = 0.2
+	}
+	rgo_size = {
+		crystals = 0.2
 	}
 	
 	ai_chance = {
@@ -686,6 +695,9 @@ cheap_iron = {
 	}
 	rgo_goods_throughput = {
 		iron = 0.25
+	}
+	rgo_goods_throughput = {
+		crystals = 0.25
 	}
 	rgo_size = {
 		iron = 0.2
@@ -739,6 +751,9 @@ cheap_steel = {
 	rgo_goods_throughput = {
 		iron = 0.25
 	}
+	rgo_goods_throughput = {
+		crystals = 0.15
+	}
 	
 	ai_chance = {
 		factor = 1.1
@@ -791,6 +806,9 @@ advanced_metallurgy = {
 	}
 	rgo_goods_throughput = {
 		iron = 0.25
+	}
+	rgo_goods_throughput = {
+		crystals = 0.25
 	}
 	rgo_size = {
 		sulphur = 0.2
@@ -848,6 +866,9 @@ electric_furnace = {
 	rgo_goods_throughput = {
 		iron = 0.5
 	}
+	rgo_goods_throughput = {
+		crystals = 0.5
+	}
 	
 	ai_chance = {
 		factor = 1.1
@@ -901,6 +922,9 @@ modern_metallurgy = {
 	}
 	rgo_goods_throughput = {
 		iron = 0.5
+	}
+	rgo_goods_throughput = {
+		crystals = 0.5
 	}
 	
 	ai_chance = {
